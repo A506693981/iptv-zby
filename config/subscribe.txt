@@ -17,3 +17,4 @@ https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://d.kstore.dev/download/10984/直播源/LR1.txt
 http://8.138.7.223/live.txt
+https://live.iptv365.org/live.txt
