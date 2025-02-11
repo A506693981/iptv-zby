@@ -356,6 +356,12 @@ iHOT-爱悬疑
 iHOT-爱院线
 
 🍍少儿频道,#genre#
+七龙珠,http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
+猫和老鼠,http://182.40.120.180/test-txdwk.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8
+海绵宝宝,http://1.94.31.214:35455/huya/11352919
+海绵宝宝,http://dns.yiandrive.com:15907/bilibili/27482796
+哆啦A梦,http://www.52sw.top:678/play/huya.php?id=11601963
+
 CCTV-14
 卡酷少儿
 金鹰卡通
@@ -368,6 +374,28 @@ CCTV-14
 名侦探柯南
 
 🍿经典剧场,#genre#
+笑傲江湖,https://lunbo.freetv.top/yy/1354930909
+天龙八部,https://lunbo.freetv.top/yy/1351814644
+射雕英雄传,http://wab201.win:35455/yy/1354210357
+射雕英雄传,https://lunbo.freetv.top/yy/1354210357
+神雕侠侣,https://lunbo.freetv.top/yy/1351762426
+神雕侠侣,http://jiaojirentv.top/2020/yy.php?id=1382704651
+倚天屠龙记,https://live.metshop.top/huya/23734246
+仙剑奇侠传,https://lunbo.freetv.top/yy/1382749903
+西游记,http://1.94.31.214:35455/huya/26355861
+西游记-张卫健,http://jiaojirentv.top/2020/yy.php?id=1354936155
+三国演义,https://lunbo.freetv.top/yy/1354930932
+三国演义,http://jiaojirentv.top/2020/yy.php?id=1354930932
+三国演义,http://jiaojirentv.top/2020/yy.php?id=1354936241
+红楼梦,http://jiaojirentv.top/2020/yy.php?id=1382745084
+新三国,http://jiaojirentv.top/2020/yy.php?id=23512910
+新白娘子传奇,https://lunbo.freetv.top/yy/1354930969
+封神榜,https://lunbo.freetv.top/yy/1353426319
+封神榜-陈浩民,http://1.94.31.214:35455/huya/29465849
+隋唐英雄传,http://jiaojirentv.top/2020/yy.php?id=1352475619
+鹿鼎记,http://jiaojirentv.top/2020/yy.php?id=28265277
+情满四合院,http://jiaojirentv.top/2020/yy.php?id=1382735541
+
 射雕英雄传
 神雕侠侣
 笑傲江湖
