@@ -89,8 +89,8 @@ CCTV-16
 CCTV-17
 CETV1
 CETV2
+CETV3
 CETV4
-CETV5
 文化精品
 央视台球
 风云音乐
