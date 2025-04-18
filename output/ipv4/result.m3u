@@ -332,13 +332,13 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🍎央视频道",CCTV-17
 http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🍎央视频道",CCTV-17
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8?
+https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🍎央视频道",CCTV-17
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1ff000&tk=822270345d4c
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🍎央视频道",CCTV-17
-http://dsj.motem.top:8880/gaoma/cctv17.m3u8
+http://121.11.160.7:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🍎央视频道",CCTV-17
-http://nas.suntao.online:35455/itv/1000000006000268004.m3u8?cdn=ystenlive
+http://60.214.104.110:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="🍎央视频道",CCTV-5+
 http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="🍎央视频道",CCTV-5+
@@ -868,19 +868,19 @@ http://39.134.65.173/PLTV/88888888/224/3221226132/1.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
 http://39.134.64.87:6610/PLTV/88888888/224/3221225732/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8?
+https://api.olelive.com/dis/live/CCTV14HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
-https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
+http://113.195.7.56:9901/tsfile/live/0014_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
+http://223.241.247.214:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
-http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1f49a5&tk=822270345d4c
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
-http://dsj.motem.top:8880/gaoma/cctv14.m3u8
+http://121.11.160.7:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
-http://nas.suntao.online:35455/itv/1000000001000008170.m3u8?cdn=ystenlive
+http://183.223.157.33:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
-http://yc.myds.me:35455/itv/1000000001000008170.m3u8?cdn=ystenlive
+http://222.173.108.238:352/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🍍少儿频道",金鹰卡通
 http://39.134.64.87:6610/PLTV/88888888/224/3221225653/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="🍍少儿频道",卡酷少儿
@@ -949,18 +949,6 @@ http://jiaojirentv.top/2020/yy.php?id=28265277
 http://jiaojirentv.top/2020/yy.php?id=1382735541
 #EXTINF:-1 tvg-name="少年包青天" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少年包青天.png" group-title="🍋经典剧场",少年包青天
 http://jiaojirentv.top/2020/yy.php?id=38498680
-#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="🍇轮播剧场",周星驰
-https://live.metshop.top/huya/11342412
-#EXTINF:-1 tvg-name="成龙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/成龙.png" group-title="🍇轮播剧场",成龙
-https://p6-dy.byteimg.com/origin/pgc-image/bebfddceee5c40f495882785675174cf
-#EXTINF:-1 tvg-name="成龙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/成龙.png" group-title="🍇轮播剧场",成龙
-https://live.metshop.top/huya/11342386
-#EXTINF:-1 tvg-name="林正英" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林正英.png" group-title="🍇轮播剧场",林正英
-https://live.metshop.top/huya/11342421
-#EXTINF:-1 tvg-name="周润发" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周润发.png" group-title="🍇轮播剧场",周润发
-https://live.metshop.top/huya/11342387
-#EXTINF:-1 tvg-name="王晶" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/王晶.png" group-title="🍇轮播剧场",王晶
-https://live.metshop.top/huya/11602058
 #EXTINF:-1 tvg-name="1992年春节联欢晚会" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1992年春节联欢晚会.png" group-title="🧨历年春晚",1992年春节联欢晚会
 https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
 #EXTINF:-1 tvg-name="1997年春节联欢晚会" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1997年春节联欢晚会.png" group-title="🧨历年春晚",1997年春节联欢晚会
@@ -971,110 +959,20 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 #EXTINF:-1 tvg-name="2024年春节联欢晚会" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2024年春节联欢晚会.png" group-title="🧨历年春晚",2024年春节联欢晚会
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 tvg-name="林龙江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林龙江.png" group-title="📯莆仙戏曲",林龙江
-https://vod.ptbtv.com/video/2024/02/15/814a55a8927fb46956d3fb0373fc74a0.m3u8
-#EXTINF:-1 tvg-name="借新娘" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/借新娘.png" group-title="📯莆仙戏曲",借新娘
-https://vod.ptbtv.com/video/2024/02/12/3b3ddb399ba8d50cd624df23cd774bad.m3u8
-#EXTINF:-1 tvg-name="云雪娘" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云雪娘.png" group-title="📯莆仙戏曲",云雪娘
-https://vod.ptbtv.com/video/2024/02/13/11aea002a0d7fa43a3296b7c7d98d6ed.m3u8
-#EXTINF:-1 tvg-name="叶李缘" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/叶李缘.png" group-title="📯莆仙戏曲",叶李缘
-https://vod.ptbtv.com/video/2023/01/26/50e54e463aa7ad3b18ad37c99ae6f73b.m3u8
-#EXTINF:-1 tvg-name="帝女泪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/帝女泪.png" group-title="📯莆仙戏曲",帝女泪
-https://vod.ptbtv.com/video/2023/01/25/31580005a1a0f9cc61ce6c5840a36831.m3u8
-#EXTINF:-1 tvg-name="锁阳关" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/锁阳关.png" group-title="📯莆仙戏曲",锁阳关
-https://vod.ptbtv.com/video/2023/01/21/3334ea6d95a509961a4acadb8eb8b21f.m3u8
-#EXTINF:-1 tvg-name="梅花谣" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/梅花谣.png" group-title="📯莆仙戏曲",梅花谣
-https://vod.ptbtv.com/2021/1614/7584/4092/161475844092.ssm/161475844092.m3u8
-#EXTINF:-1 tvg-name="铡美案" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铡美案.png" group-title="📯莆仙戏曲",铡美案
-https://vod.ptbtv.com/video/2022/05/11/e4ddd7a3a29739e7c260277ae9d75a2c.m3u8
-#EXTINF:-1 tvg-name="兰英泪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兰英泪.png" group-title="📯莆仙戏曲",兰英泪
-https://vod.ptbtv.com/2022/1643/7630/9739/164376309739.ssm/164376309739.m3u8
-#EXTINF:-1 tvg-name="孝子救母" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/孝子救母.png" group-title="📯莆仙戏曲",孝子救母
-https://vod.ptbtv.com/video/2022/04/12/1d99bb70d8793a88ce492ce59e8f2dc8.m3u8
-#EXTINF:-1 tvg-name="仁兄义弟" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/仁兄义弟.png" group-title="📯莆仙戏曲",仁兄义弟
-https://vod.ptbtv.com/video/2022/04/12/8f9ab1d5dbedecee2a7edd3ac9fb286d.m3u8
-#EXTINF:-1 tvg-name="孪生奇缘" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/孪生奇缘.png" group-title="📯莆仙戏曲",孪生奇缘
-https://vod.ptbtv.com/video/2022/05/11/98d4c31d287e2d26c66d83c032b77b3a.m3u8
-#EXTINF:-1 tvg-name="五子挂帅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五子挂帅.png" group-title="📯莆仙戏曲",五子挂帅
-https://vod.ptbtv.com/2018/1537/9645/8159/153796458159.ssm/153796458159.m3u8
-#EXTINF:-1 tvg-name="雄关风雨" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雄关风雨.png" group-title="📯莆仙戏曲",雄关风雨
-https://vod.ptbtv.com/2021/1613/2232/0246/161322320246.ssm/161322320246.m3u8
-#EXTINF:-1 tvg-name="孝从何来" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/孝从何来.png" group-title="📯莆仙戏曲",孝从何来
-https://vod.ptbtv.com/2021/1613/6547/9995/161365479995.ssm/161365479995.m3u8
-#EXTINF:-1 tvg-name="晋室风雨" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/晋室风雨.png" group-title="📯莆仙戏曲",晋室风雨
-https://vod.ptbtv.com/2021/1613/9118/0217/161391180217.ssm/161391180217.m3u8
-#EXTINF:-1 tvg-name="真假牡丹" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/真假牡丹.png" group-title="📯莆仙戏曲",真假牡丹
-https://vod.ptbtv.com/video/2023/01/22/48c084829612b01257795765b40f6dee.m3u8
-#EXTINF:-1 tvg-name="鸳鸯惊梦" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鸳鸯惊梦.png" group-title="📯莆仙戏曲",鸳鸯惊梦
-https://vod.ptbtv.com/video/2023/01/31/b897059c52fc64e783610bcbc2f8f480.m3u8
-#EXTINF:-1 tvg-name="魂断鳌头" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魂断鳌头.png" group-title="📯莆仙戏曲",魂断鳌头
-https://vod.ptbtv.com/video/2024/02/15/f7eb8b767239586fa53eecee050bb396.m3u8
-#EXTINF:-1 tvg-name="三拜花堂" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三拜花堂.png" group-title="📯莆仙戏曲",三拜花堂
-https://vod.ptbtv.com/video/2024/02/15/814a55a8927fb46956d3fb0373fc74a0.m3u8
-#EXTINF:-1 tvg-name="双帅奇缘" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/双帅奇缘.png" group-title="📯莆仙戏曲",双帅奇缘
-https://vod.ptbtv.com/video/2023/01/29/d1ec6fc69a0fb67a7793aea753722f17.m3u8
-#EXTINF:-1 tvg-name="鸾凤朝阳" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鸾凤朝阳.png" group-title="📯莆仙戏曲",鸾凤朝阳
-https://vod.ptbtv.com/video/2023/01/28/556c4c765d7811acc242bb2498641106.m3u8
-#EXTINF:-1 tvg-name="恩怨情仇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/恩怨情仇.png" group-title="📯莆仙戏曲",恩怨情仇
-https://vod.ptbtv.com/video/2023/01/25/85e983f5a4a65ebb41fab5c3dd9175af.m3u8
-#EXTINF:-1 tvg-name="刘秀献嫂" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/刘秀献嫂.png" group-title="📯莆仙戏曲",刘秀献嫂
-https://vod.ptbtv.com/video/2023/01/25/9d46a973a218af86c8b9b5c523954cc2.m3u8
-#EXTINF:-1 tvg-name="双锁恩怨" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/双锁恩怨.png" group-title="📯莆仙戏曲",双锁恩怨
-https://vod.ptbtv.com/2022/1644/3765/9891/164437659891.ssm/164437659891.m3u8
-#EXTINF:-1 tvg-name="边塞奇缘" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/边塞奇缘.png" group-title="📯莆仙戏曲",边塞奇缘
-https://vod.ptbtv.com/2022/1644/2169/8935/164421698935.ssm/164421698935.m3u8
-#EXTINF:-1 tvg-name="忠烈遗孤" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/忠烈遗孤.png" group-title="📯莆仙戏曲",忠烈遗孤
-https://vod.ptbtv.com/2022/1644/1440/9033/164414409033.ssm/164414409033.m3u8
-#EXTINF:-1 tvg-name="鞭锤闹殿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鞭锤闹殿.png" group-title="📯莆仙戏曲",鞭锤闹殿
-https://vod.ptbtv.com/2022/1644/0671/6459/164406716459.ssm/164406716459.m3u8
-#EXTINF:-1 tvg-name="新沉香阁" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新沉香阁.png" group-title="📯莆仙戏曲",新沉香阁
-https://vod.ptbtv.com/2022/1643/6411/3355/164364113355.ssm/164364113355.m3u8
-#EXTINF:-1 tvg-name="护储姻缘" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/护储姻缘.png" group-title="📯莆仙戏曲",护储姻缘
-https://vod.ptbtv.com/2022/1643/6072/1088/164360721088.ssm/164360721088.m3u8
-#EXTINF:-1 tvg-name="风雨大明宫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风雨大明宫.png" group-title="📯莆仙戏曲",风雨大明宫
-https://vod.ptbtv.com/2022/1643/8904/1550/164389041550.ssm/164389041550.m3u8
-#EXTINF:-1 tvg-name="赵子龙挂帅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赵子龙挂帅.png" group-title="📯莆仙戏曲",赵子龙挂帅
-https://vod.ptbtv.com/2022/1643/6696/6471/164366966471.ssm/164366966471.m3u8
-#EXTINF:-1 tvg-name="文武双状元" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文武双状元.png" group-title="📯莆仙戏曲",文武双状元
-https://vod.ptbtv.com/2022/1644/6543/6791/164465436791.ssm/164465436791.m3u8
-#EXTINF:-1 tvg-name="魂断白云峰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魂断白云峰.png" group-title="📯莆仙戏曲",魂断白云峰
-https://vod.ptbtv.com/2021/1613/4439/4229/161344394229.ssm/161344394229.m3u8
-#EXTINF:-1 tvg-name="文武双曲星" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文武双曲星.png" group-title="📯莆仙戏曲",文武双曲星
-https://vod.ptbtv.com/video/2023/01/25/fc794163551735e83d45bbd49745e4ae.m3u8
-#EXTINF:-1 tvg-name="四郎探母（上）" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四郎探母（上）.png" group-title="📯莆仙戏曲",四郎探母（上）
-https://vod.ptbtv.com/video/2024/02/10/34fa53a8a2a06324c2fa335ee5fea3bb.m3u8
-#EXTINF:-1 tvg-name="四郎探母（下）" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四郎探母（下）.png" group-title="📯莆仙戏曲",四郎探母（下）
-https://vod.ptbtv.com/video/2024/02/09/64974a319747cdcc921aa091e4d07f2a.m3u8
-#EXTINF:-1 tvg-name="倩女幽魂道道道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倩女幽魂道道道.png" group-title="🎞️经典影片",倩女幽魂道道道
-http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
-#EXTINF:-1 tvg-name="倩女幽魂人间道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倩女幽魂人间道.png" group-title="🎞️经典影片",倩女幽魂人间道
-http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
-#EXTINF:-1 tvg-name="倩女幽魂妖魔道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倩女幽魂妖魔道.png" group-title="🎞️经典影片",倩女幽魂妖魔道
-http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
-#EXTINF:-1 tvg-name="黄飞鸿1之壮志凌云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黄飞鸿1之壮志凌云.png" group-title="🎞️经典影片",黄飞鸿1之壮志凌云
-http://jsmov2.a.yximgs.com/bs3/video-hls/5189554175568165120_hlsb.m3u8
 #EXTINF:-1 tvg-name="黄飞鸿2之男儿当自强" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黄飞鸿2之男儿当自强.png" group-title="🎞️经典影片",黄飞鸿2之男儿当自强
 https://txmov2.a.kwimgs.com/upic/2020/05/16/01/BMjAyMDA1MTYwMTAyMjFfMjEyNDgzMjg2XzI4NjI3OTAwNTc5XzJfMw==_b_Bc1101c249e7355d840c4495b7bfd84a4.mp4
-#EXTINF:-1 tvg-name="黄飞鸿之铁鸡斗蜈蚣" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黄飞鸿之铁鸡斗蜈蚣.png" group-title="🎞️经典影片",黄飞鸿之铁鸡斗蜈蚣
-http://jsmov2.a.yximgs.com/bs3/video-hls/5250634242822045870_hlsb.m3u8
 #EXTINF:-1 tvg-name="黄飞鸿之英雄有梦" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黄飞鸿之英雄有梦.png" group-title="🎞️经典影片",黄飞鸿之英雄有梦
 https://vip.ffzy-online.com/20221017/1065_6fccd535/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="警察故事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/警察故事.png" group-title="🎞️经典影片",警察故事
 https://ukzy.ukubf3.com/20220402/N3nfxJ6i/index.m3u8
 #EXTINF:-1 tvg-name="警察故事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/警察故事.png" group-title="🎞️经典影片",警察故事
 https://vip.lz-cdn1.com/20220404/878_6675a846/1200k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="警察故事2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/警察故事2.png" group-title="🎞️经典影片",警察故事2
-http://jsmov2.a.yximgs.com/bs3/video-hls/5207568637401250631_hlsb.m3u8
 #EXTINF:-1 tvg-name="警察故事3 超级警察" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/警察故事3 超级警察.png" group-title="🎞️经典影片",警察故事3 超级警察
 https://txmov2.a.kwimgs.com/upic/2022/05/24/18/BMjAyMjA1MjQxODIxNTdfNDAzMDAxOTlfNzUxNjc2NDI5NjVfMF8z_b_B56696e4a122ac656a6b037fce6c92bd5.mp4
-#EXTINF:-1 tvg-name="新警察故事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新警察故事.png" group-title="🎞️经典影片",新警察故事
-http://jsmov2.a.yximgs.com/bs3/video-hls/5220235015225277883_hlsb.m3u8
 #EXTINF:-1 tvg-name="警察故事2013" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/警察故事2013.png" group-title="🎞️经典影片",警察故事2013
 https://txmov2.a.kwimgs.com/upic/2020/12/19/11/BMjAyMDEyMTkxMTE1NTFfNDAzMDAxOTlfNDA5NDA3ODAyNzRfMF8z_b_B4b2d907256032e448d0cfcc80d0a330c.mp4
 #EXTINF:-1 tvg-name="警察故事2013" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/警察故事2013.png" group-title="🎞️经典影片",警察故事2013
 https://vip1.lz-cdn1.com/20220420/2679_f713e430/1200k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="A计划" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/A计划.png" group-title="🎞️经典影片",A计划
-http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 #EXTINF:-1 tvg-name="赌城大亨之新哥传奇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赌城大亨之新哥传奇.png" group-title="🎞️经典影片",赌城大亨之新哥传奇
 https://vip.ffzy-online.com/20221017/864_5fbb1d87/index.m3u8
 #EXTINF:-1 tvg-name="赌城大亨2之至尊无敌" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赌城大亨2之至尊无敌.png" group-title="🎞️经典影片",赌城大亨2之至尊无敌
@@ -1099,8 +997,6 @@ https://m3u.nikanba.live/share/892bc1fbadfd4bdc9bf8348076bbe0f8.m3u8
 https://txmov2.a.kwimgs.com/upic/2021/09/30/18/BMjAyMTA5MzAxODM1NTFfMTI0MzE0NjMyOF81ODEwNDc3MzAzOF8yXzM=_b_B1b01bbe5b567f842b3de0b78109d1907.mp4
 #EXTINF:-1 tvg-name="英雄本色3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/英雄本色3.png" group-title="🎞️经典影片",英雄本色3
 https://txmov2.a.kwimgs.com/upic/2021/02/14/12/BMjAyMTAyMTQxMjI5MjlfNDAzMDAxOTlfNDQyOTM3MjUyNzVfMF8z_b_B1baaca7c95aa2ad7a088f38c266bceb5.mp4
-#EXTINF:-1 tvg-name="人在囧途" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/人在囧途.png" group-title="🎞️经典影片",人在囧途
-http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
 #EXTINF:-1 tvg-name="人在囧途之囧妈" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/人在囧途之囧妈.png" group-title="🎞️经典影片",人在囧途之囧妈
 https://vip.ffzy-online.com/20230122/54089_b5925cb9/index.m3u8
 #EXTINF:-1 tvg-name="澳门风云1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳门风云1.png" group-title="🎞️经典影片",澳门风云1
@@ -1117,10 +1013,6 @@ https://vip.lz-cdn3.com/20230114/17167_f0f5a918/index.m3u8
 https://vip.lz-cdn3.com/20230114/17169_e351e7c8/index.m3u8
 #EXTINF:-1 tvg-name="猛鬼入侵黑社会" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/猛鬼入侵黑社会.png" group-title="🎞️经典影片",猛鬼入侵黑社会
 https://v.cdnlz19.com/20240410/26916_a792b2eb/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="羞羞鬼" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/羞羞鬼.png" group-title="🎞️经典影片",羞羞鬼
-http://jsmov2.a.yximgs.com/bs3/video-hls//5229523697125974635_hlsb.m3u8
-#EXTINF:-1 tvg-name="东方秃鹰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方秃鹰.png" group-title="🎞️经典影片",东方秃鹰
-http://jsmov2.a.yximgs.com/bs3/video-hls/5218546164654879826_hlsb.m3u8
 #EXTINF:-1 tvg-name="爱情神话" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情神话.png" group-title="🎞️经典影片",爱情神话
 https://vip.ffzy-online.com/20221015/575_a2c32b8f/index.m3u8
 #EXTINF:-1 tvg-name="暗战" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/暗战.png" group-title="🎞️经典影片",暗战
@@ -1133,80 +1025,42 @@ https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
 https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
 #EXTINF:-1 tvg-name="超时空同居" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/超时空同居.png" group-title="🎞️经典影片",超时空同居
 https://vip.ffzy-online.com/20221015/745_b4a413ef/index.m3u8
-#EXTINF:-1 tvg-name="刀剑笑" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/刀剑笑.png" group-title="🎞️经典影片",刀剑笑
-http://jsmov2.a.yximgs.com/bs3/video-hls/5215168447635500734_hlsb.m3u8
 #EXTINF:-1 tvg-name="地球：神奇的一天" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/地球：神奇的一天.png" group-title="🎞️经典影片",地球：神奇的一天
 https://vip.lz-cdn3.com/20221114/15887_b3b2f329/1200k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="东方三侠" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方三侠.png" group-title="🎞️经典影片",东方三侠
-http://jsmov2.a.yximgs.com/bs3/video-hls/5222205346628851891_hlsb.m3u8
 #EXTINF:-1 tvg-name="肥龙过江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/肥龙过江.png" group-title="🎞️经典影片",肥龙过江
 https://vip.ffzy-online.com/20221017/910_1576b6c4/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="功夫瑜伽" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/功夫瑜伽.png" group-title="🎞️经典影片",功夫瑜伽
 https://vip1.lz-cdn.com/20220812/28130_38a2cfba/1000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="古董局中局" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/古董局中局.png" group-title="🎞️经典影片",古董局中局
 https://vip.ffzy-online.com/20221017/983_2bd33011/index.m3u8
-#EXTINF:-1 tvg-name="寒战" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寒战.png" group-title="🎞️经典影片",寒战
-http://jsmov2.a.yximgs.com/bs3/video-hls/5226990400735682590_hlsb.m3u8
 #EXTINF:-1 tvg-name="寒战2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寒战2.png" group-title="🎞️经典影片",寒战2
 https://vip.lz-cdn3.com/20220907/12892_5eb849b0/index.m3u8
 #EXTINF:-1 tvg-name="洪福齐天" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/洪福齐天.png" group-title="🎞️经典影片",洪福齐天
 https://v.cdnlz19.com/20240215/15960_03ecf134/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="葫芦兄弟" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/葫芦兄弟.png" group-title="🎞️经典影片",葫芦兄弟
-http://jsmov2.a.yximgs.com/bs3/video-hls/5223049779458999093_hlsb.m3u8
 #EXTINF:-1 tvg-name="花飞满城春" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/花飞满城春.png" group-title="🎞️经典影片",花飞满城春
 https://vip.lz-cdn3.com/20230715/20266_4e6d4caf/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="火烧岛" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/火烧岛.png" group-title="🎞️经典影片",火烧岛
 https://vip1.lz-cdn1.com/20220522/6326_33ed779b/1200k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="集结号" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/集结号.png" group-title="🎞️经典影片",集结号
 https://txmov2.a.kwimgs.com/upic/2021/02/24/11/BMjAyMTAyMjQxMTE1MDlfNDAzMDAxOTlfNDQ5MjUwMTc4MzlfMF8z_b_Bf01a6129a3b10870755abbe165e07ae4.mp4
-#EXTINF:-1 tvg-name="九二神雕之痴心情长剑" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/九二神雕之痴心情长剑.png" group-title="🎞️经典影片",九二神雕之痴心情长剑
-http://jsmov2.a.yximgs.com/bs3/video-hls/5188428323796620673_hlsb.m3u8
-#EXTINF:-1 tvg-name="九一神雕侠侣" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/九一神雕侠侣.png" group-title="🎞️经典影片",九一神雕侠侣
-http://jsmov2.a.yximgs.com/bs3/video-hls/5227553349016599035_hlsb.m3u8
-#EXTINF:-1 tvg-name="举起手来" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/举起手来.png" group-title="🎞️经典影片",举起手来
-http://jsmov2.a.yximgs.com/bs3/video-hls/5200531695946611297_hlsb.m3u8
 #EXTINF:-1 tvg-name="咖喱辣椒" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咖喱辣椒.png" group-title="🎞️经典影片",咖喱辣椒
 https://m3u.nikanba.live/share/95f7706116134e30838c03a1d304c85c.m3u8
 #EXTINF:-1 tvg-name="龙马精神" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙马精神.png" group-title="🎞️经典影片",龙马精神
 https://vip.ffzy-online6.com/20230603/12901_b0997ad4/index.m3u8
 #EXTINF:-1 tvg-name="龙马精神" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙马精神.png" group-title="🎞️经典影片",龙马精神
 https://super.ffzy-online6.com/20230603/12901_b0997ad4/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="龙门飞甲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙门飞甲.png" group-title="🎞️经典影片",龙门飞甲
-http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
-#EXTINF:-1 tvg-name="龙腾四海" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙腾四海.png" group-title="🎞️经典影片",龙腾四海
-https://jsmov2.a.yximgs.com/bs3/video-hls/1_5255700859231274588_hlsvip_d5e49561b0e02836.d873ef.v0.m3u8
-#EXTINF:-1 tvg-name="龙兄虎弟" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙兄虎弟.png" group-title="🎞️经典影片",龙兄虎弟
-http://jsmov2.a.yximgs.com/bs3/video-hls/5250352837791566632_hlsb.m3u8
 #EXTINF:-1 tvg-name="摩登如来神掌" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/摩登如来神掌.png" group-title="🎞️经典影片",摩登如来神掌
 https://m3u.nikanba.live/share/9b0498f072dd44b4a7e434123b241573.m3u8
 #EXTINF:-1 tvg-name="奇迹1989" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/奇迹1989.png" group-title="🎞️经典影片",奇迹1989
 https://vip1.lz-cdn1.com/20220404/947_529bcfa4/1200k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="青蛇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青蛇.png" group-title="🎞️经典影片",青蛇
-http://jsmov2.a.yximgs.com/bs3/video-hls/5258515616867239871_hlsb.m3u8
-#EXTINF:-1 tvg-name="上海滩十三太保" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海滩十三太保.png" group-title="🎞️经典影片",上海滩十三太保
-http://jsmov2.a.yximgs.com/bs3/video-hls/5249789878426449116_hlsb.m3u8
-#EXTINF:-1 tvg-name="少林足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少林足球.png" group-title="🎞️经典影片",少林足球
-http://jsmov2.a.yximgs.com/bs3/video-hls/5203065047959651388_hlsb.m3u8
-#EXTINF:-1 tvg-name="少年赌神" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少年赌神.png" group-title="🎞️经典影片",少年赌神
-http://jsmov2.a.yximgs.com/bs3/video-hls/5253730517743567853_hlsb.m3u8
 #EXTINF:-1 tvg-name="蛇形刁手" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蛇形刁手.png" group-title="🎞️经典影片",蛇形刁手
 https://vip1.lz-cdn1.com/20220413/1883_3fd46161/1200k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="神探蒲松龄" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神探蒲松龄.png" group-title="🎞️经典影片",神探蒲松龄
 https://vip.lz-cdn3.com/20220930/14326_99ca3fbb/1200k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="噬魂剑" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/噬魂剑.png" group-title="🎞️经典影片",噬魂剑
-http://jsmov2.a.yximgs.com/bs3/video-hls//5202783575206012433_hlsb.m3u8
-#EXTINF:-1 tvg-name="双龙会" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/双龙会.png" group-title="🎞️经典影片",双龙会
-http://jsmov2.a.yximgs.com/bs3/video-hls/5199687336814310271_hlsb.m3u8
 #EXTINF:-1 tvg-name="四大名捕2012" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四大名捕2012.png" group-title="🎞️经典影片",四大名捕2012
 https://txmov2.a.kwimgs.com/upic/2020/12/25/14/BMjAyMDEyMjUxNDM1MTJfNDAzMDAxOTlfNDEyNjQzODY5ODJfMF8z_b_B61e4b3069c98307be010773c799bdad6.mp4
-#EXTINF:-1 tvg-name="太极张三丰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/太极张三丰.png" group-title="🎞️经典影片",太极张三丰
-http://jsmov2.a.yximgs.com/bs3/video-hls/5236841968140880426_hlsb.m3u8
-#EXTINF:-1 tvg-name="唐人街探案1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/唐人街探案1.png" group-title="🎞️经典影片",唐人街探案1
-http://jsmov2.a.yximgs.com/bs3/video-hls/5228679277451765996_hlsb.m3u8
 #EXTINF:-1 tvg-name="特务迷城" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/特务迷城.png" group-title="🎞️经典影片",特务迷城
 https://vip.lz-cdn1.com/20220411/1661_39b86486/1200k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="天若有情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天若有情.png" group-title="🎞️经典影片",天若有情
-http://jsmov2.a.yximgs.com/bs3/video-hls/5246412168297899387_hlsb.m3u8
 #EXTINF:-1 tvg-name="天若有情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天若有情.png" group-title="🎞️经典影片",天若有情
 https://txmov2.a.kwimgs.com/upic/2021/02/16/09/BMjAyMTAyMTYwOTI5NDRfNDAzMDAxOTlfNDQ0MjI0Mjk3ODFfMF8z_b_B73c61cc5ef4171eb35ea2f62d6da20d7.mp4
 #EXTINF:-1 tvg-name="铁掌旋风腿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁掌旋风腿.png" group-title="🎞️经典影片",铁掌旋风腿
@@ -1221,26 +1075,12 @@ https://vip.ffzy-online.com/20221015/672_cd3f2629/index.m3u8
 https://vip.ffzy-online.com/20221015/676_0dc45896/index.m3u8
 #EXTINF:-1 tvg-name="侠圣" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/侠圣.png" group-title="🎞️经典影片",侠圣
 https://vip.ffzy-online.com/20221015/741_196889fc/index.m3u8
-#EXTINF:-1 tvg-name="新少林五祖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新少林五祖.png" group-title="🎞️经典影片",新少林五祖
-http://jsmov2.a.yximgs.com/bs3/video-hls/5226990421752301001_hlsb.m3u8
 #EXTINF:-1 tvg-name="新天龙八部之天山童姥" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新天龙八部之天山童姥.png" group-title="🎞️经典影片",新天龙八部之天山童姥
 https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
 #EXTINF:-1 tvg-name="新最佳拍档" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新最佳拍档.png" group-title="🎞️经典影片",新最佳拍档
 https://m3u.nikanba.live/share/ad4f2806bf95471bb0bf95073c70332c.m3u8
 #EXTINF:-1 tvg-name="血观音" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/血观音.png" group-title="🎞️经典影片",血观音
 http://visionularcdn.yishihui.com/output/longvideo/multitranscode/video/vpc/20230405/15607217BFoYHXt3BVXBRfB2Qh20230405211000420274909-3HD.m3u8
-#EXTINF:-1 tvg-name="血战台儿庄" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/血战台儿庄.png" group-title="🎞️经典影片",血战台儿庄
-http://jsmov2.a.yximgs.com/bs3/video-hls/5242471549080321487_hlsb.m3u8
-#EXTINF:-1 tvg-name="叶问1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/叶问1.png" group-title="🎞️经典影片",叶问1
-http://jsmov2.a.yximgs.com/bs3/video-hls/5220516421292450272_hlsb.m3u8
-#EXTINF:-1 tvg-name="一个好人" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/一个好人.png" group-title="🎞️经典影片",一个好人
-http://jsmov2.a.yximgs.com/bs3/video-hls/5248663982858337076_hlsb.m3u8
-#EXTINF:-1 tvg-name="倚天屠龙记之魔教教主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记之魔教教主.png" group-title="🎞️经典影片",倚天屠龙记之魔教教主
-http://jsmov2.a.yximgs.com/bs3/video-hls/5218264700326446854_hlsb.m3u8
-#EXTINF:-1 tvg-name="义胆雄心" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/义胆雄心.png" group-title="🎞️经典影片",义胆雄心
-http://jsmov2.a.yximgs.com/bs3/video-hls/5237686462055775486_hlsb.m3u8
-#EXTINF:-1 tvg-name="隐入尘烟" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/隐入尘烟.png" group-title="🎞️经典影片",隐入尘烟
-http://jsmov2.a.yximgs.com/bs3/video-hls/5194057840761439572_hlsb.m3u8
 #EXTINF:-1 tvg-name="英伦对决" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/英伦对决.png" group-title="🎞️经典影片",英伦对决
 https://vip.lz-cdn3.com/20221119/16084_02999cf1/1200k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="正牌韦小宝之奉旨沟女" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/正牌韦小宝之奉旨沟女.png" group-title="🎞️经典影片",正牌韦小宝之奉旨沟女
@@ -1249,10 +1089,6 @@ https://m3u.nikanba.live/share/725df2d869994c37a2b11615195bd9c7.m3u8
 https://vip.lz-cdn3.com/20230623/19785_d14d1e58/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="中国机长" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中国机长.png" group-title="🎞️经典影片",中国机长
 https://txmov2.a.kwimgs.com/upic/2023/04/30/18/BMjAyMzA0MzAxODA4MjhfMTcwNzIxNjA3NF8xMDE4NzEwMjA1NDJfMF8z_b_B6de6ee41212c67378116157c65bf3038.mp4
-#EXTINF:-1 tvg-name="中南海保镖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中南海保镖.png" group-title="🎞️经典影片",中南海保镖
-http://jsmov2.a.yximgs.com/bs3/video-hls/5191243094765815668_hlsb.m3u8
-#EXTINF:-1 tvg-name="重案组" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重案组.png" group-title="🎞️经典影片",重案组
-http://jsmov2.a.yximgs.com/bs3/video-hls/5238530899986631609_hlsb.m3u8
 #EXTINF:-1 tvg-name="重案组" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重案组.png" group-title="🎞️经典影片",重案组
 https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-04-18 20:29:34
