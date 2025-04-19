@@ -166,9 +166,9 @@ CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-17,http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpSessionId=
 CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8
-CCTV-17,http://120.76.248.139/live/bfgd/4200000204.m3u8
-CCTV-17,http://182.37.169.94:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1ff000&tk=822270345d4c
+CCTV-17,http://60.214.104.110:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17,http://121.11.160.7:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8
 CCTV-5+,http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8
 CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
@@ -440,12 +440,12 @@ CCTV-14,http://39.134.65.173/PLTV/88888888/224/3221225674/1.m3u8
 CCTV-14,http://39.134.65.173/PLTV/88888888/224/3221226132/1.m3u8
 CCTV-14,http://39.134.64.87:6610/PLTV/88888888/224/3221225732/index.m3u8?IASHttpSessionId=
 CCTV-14,https://api.olelive.com/dis/live/CCTV14HD/hls.m3u8
-CCTV-14,http://120.76.248.139/live/bfgd/4200000132.m3u8
-CCTV-14,http://39.164.180.36:19901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-14,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1f49a5&tk=822270345d4c
-CCTV-14,http://42.48.105.224:9002/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14,http://222.134.245.16:9901/tsfile/live/0014_1.m3u8
-CCTV-14,http://58.19.38.162:9901/tsfile/live/0014_1.m3u8
+CCTV-14,http://222.173.108.238:352/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://223.241.247.214:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://113.56.95.69:53765/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://1.24.190.98:10080/hls/14/index.m3u8
+CCTV-14,http://39.164.180.36:19901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 金鹰卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225653/index.m3u8?IASHttpSessionId=
 卡酷少儿,http://39.134.64.87:6610/PLTV/88888888/224/3221225654/index.m3u8?IASHttpSessionId=
 优漫卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225656/index.m3u8?IASHttpSessionId=
@@ -565,4 +565,4 @@ CCTV-14,http://58.19.38.162:9901/tsfile/live/0014_1.m3u8
 重案组,https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
 
 🕘️更新时间,#genre#
-2025-04-19 06:41:48,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-04-19 18:39:55,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
