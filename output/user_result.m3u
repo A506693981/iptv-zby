@@ -1158,9 +1158,9 @@ http://jsmov2.a.yximgs.com/bs3/video-hls/5200531695946611297_hlsb.m3u8
 #EXTINF:-1 tvg-name="咖喱辣椒" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咖喱辣椒.png" group-title="🎞️经典影片",咖喱辣椒
 https://m3u.nikanba.live/share/95f7706116134e30838c03a1d304c85c.m3u8
 #EXTINF:-1 tvg-name="龙马精神" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙马精神.png" group-title="🎞️经典影片",龙马精神
-https://super.ffzy-online6.com/20230603/12901_b0997ad4/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="龙马精神" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙马精神.png" group-title="🎞️经典影片",龙马精神
 https://vip.ffzy-online6.com/20230603/12901_b0997ad4/index.m3u8
+#EXTINF:-1 tvg-name="龙马精神" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙马精神.png" group-title="🎞️经典影片",龙马精神
+https://super.ffzy-online6.com/20230603/12901_b0997ad4/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="龙门飞甲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙门飞甲.png" group-title="🎞️经典影片",龙门飞甲
 http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 #EXTINF:-1 tvg-name="龙腾四海" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙腾四海.png" group-title="🎞️经典影片",龙腾四海
@@ -1237,5 +1237,5 @@ http://jsmov2.a.yximgs.com/bs3/video-hls/5191243094765815668_hlsb.m3u8
 http://jsmov2.a.yximgs.com/bs3/video-hls/5238530899986631609_hlsb.m3u8
 #EXTINF:-1 tvg-name="重案组" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重案组.png" group-title="🎞️经典影片",重案组
 https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-04-21 18:42:46
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-04-22 06:43:10
 http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8

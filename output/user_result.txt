@@ -596,8 +596,8 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 九一神雕侠侣,http://jsmov2.a.yximgs.com/bs3/video-hls/5227553349016599035_hlsb.m3u8
 举起手来,http://jsmov2.a.yximgs.com/bs3/video-hls/5200531695946611297_hlsb.m3u8
 咖喱辣椒,https://m3u.nikanba.live/share/95f7706116134e30838c03a1d304c85c.m3u8
-龙马精神,https://super.ffzy-online6.com/20230603/12901_b0997ad4/2000k/hls/mixed.m3u8
 龙马精神,https://vip.ffzy-online6.com/20230603/12901_b0997ad4/index.m3u8
+龙马精神,https://super.ffzy-online6.com/20230603/12901_b0997ad4/2000k/hls/mixed.m3u8
 龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 龙腾四海,https://jsmov2.a.yximgs.com/bs3/video-hls/1_5255700859231274588_hlsvip_d5e49561b0e02836.d873ef.v0.m3u8
 龙兄虎弟,http://jsmov2.a.yximgs.com/bs3/video-hls/5250352837791566632_hlsb.m3u8
@@ -638,4 +638,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 重案组,https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
 
 🕘️更新时间,#genre#
-2025-04-21 18:42:46,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-04-22 06:43:10,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8

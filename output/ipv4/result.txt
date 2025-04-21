@@ -165,10 +165,10 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-17,http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpSessionId=
-CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8
-CCTV-17,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1ff000&tk=822270345d4c
-CCTV-17,http://222.134.245.16:9901/tsfile/live/0019_1.m3u8
+CCTV-17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 CCTV-17,https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
+CCTV-17,http://222.134.245.16:9901/tsfile/live/0019_1.m3u8
+CCTV-17,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1ff000&tk=822270345d4c
 CCTV-5+,http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8
 CCTV-5+,http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8
 CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
@@ -439,13 +439,13 @@ CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
 CCTV-14,http://39.134.65.173/PLTV/88888888/224/3221225674/1.m3u8
 CCTV-14,http://39.134.65.173/PLTV/88888888/224/3221226132/1.m3u8
 CCTV-14,http://39.134.64.87:6610/PLTV/88888888/224/3221225732/index.m3u8?IASHttpSessionId=
-CCTV-14,https://api.olelive.com/dis/live/CCTV14HD/hls.m3u8
-CCTV-14,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1f49a5&tk=822270345d4c
-CCTV-14,http://222.134.245.16:9901/tsfile/live/0014_1.m3u8
+CCTV-14,http://120.76.248.139/live/bfgd/4200000132.m3u8
 CCTV-14,https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
-CCTV-14,http://58.19.38.162:9901/tsfile/live/0014_1.m3u8
-CCTV-14,http://183.186.89.226:8899/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14,http://218.13.14.6:60050/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://222.134.245.16:9901/tsfile/live/0014_1.m3u8
+CCTV-14,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1f49a5&tk=822270345d4c
+CCTV-14,http://39.164.180.36:19901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-14,http://183.223.157.33:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://222.173.108.238:352/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225653/index.m3u8?IASHttpSessionId=
 卡酷少儿,http://39.134.64.87:6610/PLTV/88888888/224/3221225654/index.m3u8?IASHttpSessionId=
 优漫卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225656/index.m3u8?IASHttpSessionId=
@@ -535,8 +535,8 @@ CCTV-14,http://218.13.14.6:60050/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&a
 火烧岛,https://vip1.lz-cdn1.com/20220522/6326_33ed779b/1200k/hls/mixed.m3u8
 集结号,https://txmov2.a.kwimgs.com/upic/2021/02/24/11/BMjAyMTAyMjQxMTE1MDlfNDAzMDAxOTlfNDQ5MjUwMTc4MzlfMF8z_b_Bf01a6129a3b10870755abbe165e07ae4.mp4
 咖喱辣椒,https://m3u.nikanba.live/share/95f7706116134e30838c03a1d304c85c.m3u8
-龙马精神,https://super.ffzy-online6.com/20230603/12901_b0997ad4/2000k/hls/mixed.m3u8
 龙马精神,https://vip.ffzy-online6.com/20230603/12901_b0997ad4/index.m3u8
+龙马精神,https://super.ffzy-online6.com/20230603/12901_b0997ad4/2000k/hls/mixed.m3u8
 摩登如来神掌,https://m3u.nikanba.live/share/9b0498f072dd44b4a7e434123b241573.m3u8
 奇迹1989,https://vip1.lz-cdn1.com/20220404/947_529bcfa4/1200k/hls/mixed.m3u8
 蛇形刁手,https://vip1.lz-cdn1.com/20220413/1883_3fd46161/1200k/hls/mixed.m3u8
@@ -556,4 +556,4 @@ CCTV-14,http://218.13.14.6:60050/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&a
 重案组,https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
 
 🕘️更新时间,#genre#
-2025-04-21 18:42:46,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-04-22 06:43:10,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
