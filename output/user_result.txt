@@ -486,6 +486,7 @@ CCTV-14,http://yc.myds.me:35455/itv/1000000001000008170.m3u8?cdn=ystenlive
 
 🍇轮播剧场,#genre#
 周星驰,https://live.metshop.top/huya/11342412
+成龙,https://p6-dy.byteimg.com/origin/pgc-image/bebfddceee5c40f495882785675174cf
 成龙,https://live.metshop.top/huya/11342386
 林正英,https://live.metshop.top/huya/11342421
 周润发,https://live.metshop.top/huya/11342387
@@ -638,4 +639,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 重案组,https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
 
 🕘️更新时间,#genre#
-2025-04-23 06:44:53,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-04-23 18:41:53,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
