@@ -546,7 +546,6 @@ CCTV-14,http://yc.myds.me:35455/itv/1000000001000008170.m3u8?cdn=ystenlive
 黄飞鸿1之壮志凌云,http://jsmov2.a.yximgs.com/bs3/video-hls/5189554175568165120_hlsb.m3u8
 黄飞鸿2之男儿当自强,https://txmov2.a.kwimgs.com/upic/2020/05/16/01/BMjAyMDA1MTYwMTAyMjFfMjEyNDgzMjg2XzI4NjI3OTAwNTc5XzJfMw==_b_Bc1101c249e7355d840c4495b7bfd84a4.mp4
 黄飞鸿之铁鸡斗蜈蚣,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634242822045870_hlsb.m3u8
-黄飞鸿之英雄有梦,https://vip.ffzy-online.com/20221017/1065_6fccd535/2000k/hls/mixed.m3u8
 警察故事,https://ukzy.ukubf3.com/20220402/N3nfxJ6i/index.m3u8
 警察故事,https://vip.lz-cdn1.com/20220404/878_6675a846/1200k/hls/mixed.m3u8
 警察故事2,http://jsmov2.a.yximgs.com/bs3/video-hls/5207568637401250631_hlsb.m3u8
@@ -555,12 +554,8 @@ CCTV-14,http://yc.myds.me:35455/itv/1000000001000008170.m3u8?cdn=ystenlive
 警察故事2013,https://txmov2.a.kwimgs.com/upic/2020/12/19/11/BMjAyMDEyMTkxMTE1NTFfNDAzMDAxOTlfNDA5NDA3ODAyNzRfMF8z_b_B4b2d907256032e448d0cfcc80d0a330c.mp4
 警察故事2013,https://vip1.lz-cdn1.com/20220420/2679_f713e430/1200k/hls/mixed.m3u8
 A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
-赌城大亨之新哥传奇,https://vip.ffzy-online.com/20221017/864_5fbb1d87/index.m3u8
-赌城大亨2之至尊无敌,https://vip.ffzy-online.com/20221017/863_ed22c0c3/index.m3u8
-赌神1,https://vip.ffzy-online.com/20221017/865_74da177a/index.m3u8
 赌神2,https://txmov2.a.kwimgs.com/upic/2022/06/30/10/BMjAyMjA2MzAxMDQ4MTBfMzQ2ODQ5ODAxXzc3OTU2NDczMDcwXzBfMw==_b_B441bf57459ce6144e88f8567a5fac4ff.mp4
 赌神2,https://vip.lz-cdn.com/20220622/20003_820596d4/index.m3u8
-赌侠大战拉斯维加斯,https://vip.ffzy-online.com/20221017/873_cf765959/index.m3u8
 最佳拍档 1,https://m3u.nikanba.live/share/3616eb6814804b3d86b386b80795d30c.m3u8
 最佳拍档 2_大显神通,https://m3u.nikanba.live/share/915bf56745484b339b1480bad0e95784.m3u8
 最佳拍档 3_女皇密令,https://m3u.nikanba.live/share/2c272adca580476da844c0c2a8677900.m3u8
@@ -568,25 +563,16 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 醉拳,https://txmov2.a.kwimgs.com/upic/2021/09/30/18/BMjAyMTA5MzAxODM1NTFfMTI0MzE0NjMyOF81ODEwNDc3MzAzOF8yXzM=_b_B1b01bbe5b567f842b3de0b78109d1907.mp4
 英雄本色3,https://txmov2.a.kwimgs.com/upic/2021/02/14/12/BMjAyMTAyMTQxMjI5MjlfNDAzMDAxOTlfNDQyOTM3MjUyNzVfMF8z_b_B1baaca7c95aa2ad7a088f38c266bceb5.mp4
 人在囧途,http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
-人在囧途之囧妈,https://vip.ffzy-online.com/20230122/54089_b5925cb9/index.m3u8
-澳门风云1,https://vip.ffzy-online.com/20221015/587_536debfc/index.m3u8
 澳门风云2,https://vip.lz-cdn8.com/20220903/25590_a12ec6f7/index.m3u8
 澳门风云3,https://vip.lz-cdn8.com/20220903/25592_5fdbb860/index.m3u8
 尖峰时刻3,https://vip1.lz-cdn1.com/20220516/5780_3d375a51/1200k/hls/mixed.m3u8
 猛鬼入侵黑社会,https://v.cdnlz19.com/20240410/26916_a792b2eb/2000k/hls/mixed.m3u8
 羞羞鬼,http://jsmov2.a.yximgs.com/bs3/video-hls//5229523697125974635_hlsb.m3u8
 东方秃鹰,http://jsmov2.a.yximgs.com/bs3/video-hls/5218546164654879826_hlsb.m3u8
-爱情神话,https://vip.ffzy-online.com/20221015/575_a2c32b8f/index.m3u8
-暗战,https://vip.ffzy-online.com/20221015/583_fb343007/index.m3u8
 曾经相爱的我们,https://vip1.lz-cdn1.com/20220516/5958_f2a5e885/1200k/hls/mixed.m3u8
-拆弹专家,https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
-拆弹专家2,https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
-超时空同居,https://vip.ffzy-online.com/20221015/745_b4a413ef/index.m3u8
 刀剑笑,http://jsmov2.a.yximgs.com/bs3/video-hls/5215168447635500734_hlsb.m3u8
 东方三侠,http://jsmov2.a.yximgs.com/bs3/video-hls/5222205346628851891_hlsb.m3u8
-肥龙过江,https://vip.ffzy-online.com/20221017/910_1576b6c4/2000k/hls/mixed.m3u8
 功夫瑜伽,https://vip1.lz-cdn.com/20220812/28130_38a2cfba/1000k/hls/mixed.m3u8
-古董局中局,https://vip.ffzy-online.com/20221017/983_2bd33011/index.m3u8
 寒战,http://jsmov2.a.yximgs.com/bs3/video-hls/5226990400735682590_hlsb.m3u8
 洪福齐天,https://v.cdnlz19.com/20240215/15960_03ecf134/2000k/hls/mixed.m3u8
 葫芦兄弟,http://jsmov2.a.yximgs.com/bs3/video-hls/5223049779458999093_hlsb.m3u8
@@ -596,8 +582,6 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 九一神雕侠侣,http://jsmov2.a.yximgs.com/bs3/video-hls/5227553349016599035_hlsb.m3u8
 举起手来,http://jsmov2.a.yximgs.com/bs3/video-hls/5200531695946611297_hlsb.m3u8
 咖喱辣椒,https://m3u.nikanba.live/share/95f7706116134e30838c03a1d304c85c.m3u8
-龙马精神,https://vip.ffzy-online6.com/20230603/12901_b0997ad4/index.m3u8
-龙马精神,https://super.ffzy-online6.com/20230603/12901_b0997ad4/2000k/hls/mixed.m3u8
 龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 龙腾四海,https://jsmov2.a.yximgs.com/bs3/video-hls/1_5255700859231274588_hlsvip_d5e49561b0e02836.d873ef.v0.m3u8
 龙兄虎弟,http://jsmov2.a.yximgs.com/bs3/video-hls/5250352837791566632_hlsb.m3u8
@@ -616,11 +600,7 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 特务迷城,https://vip.lz-cdn1.com/20220411/1661_39b86486/1200k/hls/mixed.m3u8
 天若有情,http://jsmov2.a.yximgs.com/bs3/video-hls/5246412168297899387_hlsb.m3u8
 天若有情,https://txmov2.a.kwimgs.com/upic/2021/02/16/09/BMjAyMTAyMTYwOTI5NDRfNDAzMDAxOTlfNDQ0MjI0Mjk3ODFfMF8z_b_B73c61cc5ef4171eb35ea2f62d6da20d7.mp4
-王牌替身,https://super.ffzy-online6.com/20230526/12448_af49c23a/2000k/hls/mixed.m3u8
 旺角卡门,https://txmov2.a.kwimgs.com/upic/2021/02/26/14/BMjAyMTAyMjYxNDA0NTJfNDAzMDAxOTlfNDUwNTg2MzczNTZfMF8z_b_B47b4dd965339d865184dcb23b2148e29.mp4
-五亿探长雷洛传1雷老虎,https://vip.ffzy-online.com/20221015/672_cd3f2629/index.m3u8
-五亿探长雷洛传2父子情仇,https://vip.ffzy-online.com/20221015/676_0dc45896/index.m3u8
-侠圣,https://vip.ffzy-online.com/20221015/741_196889fc/index.m3u8
 新少林五祖,http://jsmov2.a.yximgs.com/bs3/video-hls/5226990421752301001_hlsb.m3u8
 新天龙八部之天山童姥,https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
 新最佳拍档,https://m3u.nikanba.live/share/ad4f2806bf95471bb0bf95073c70332c.m3u8
@@ -638,4 +618,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 重案组,https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
 
 🕘️更新时间,#genre#
-2025-04-24 06:39:23,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-04-24 18:45:19,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
