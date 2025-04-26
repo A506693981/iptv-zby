@@ -165,10 +165,10 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-17,http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpSessionId=
-CCTV-17,https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
 CCTV-17,http://nctv.top/IDOEPpiryt/migu.php?id=cctv17
 CCTV-17,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=905b6f&tk=8bf286184513
-CCTV-17,http://120.76.248.139/live/bfgd/4200000204.m3u8
+CCTV-17,https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
+CCTV-17,http://111.43.126.240:9003/hls/30/index.m3u8
 CCTV-5+,http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8
 CCTV-5+,http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8
 CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
@@ -439,13 +439,13 @@ CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
 CCTV-14,http://39.134.65.173/PLTV/88888888/224/3221225674/1.m3u8
 CCTV-14,http://39.134.65.173/PLTV/88888888/224/3221226132/1.m3u8
 CCTV-14,http://39.134.64.87:6610/PLTV/88888888/224/3221225732/index.m3u8?IASHttpSessionId=
-CCTV-14,https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
-CCTV-14,http://39.164.180.36:19901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-14,http://nctv.top/IDOEPpiryt/migu.php?id=cctv14
+CCTV-14,http://42.225.117.174:11199/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=254d88&tk=8bf286184513
-CCTV-14,http://222.173.108.238:352/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14,http://120.76.248.139/live/bfgd/4200000132.m3u8
-CCTV-14,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV-14,http://58.19.252.68:1111/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
+CCTV-14,http://106.46.57.50:8888/hls/14/index.m3u8
+CCTV-14,http://111.43.126.240:9003/hls/27/index.m3u8
 金鹰卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225653/index.m3u8?IASHttpSessionId=
 卡酷少儿,http://39.134.64.87:6610/PLTV/88888888/224/3221225654/index.m3u8?IASHttpSessionId=
 优漫卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225656/index.m3u8?IASHttpSessionId=
@@ -536,4 +536,4 @@ CCTV-14,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv
 重案组,https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
 
 🕘️更新时间,#genre#
-2025-04-26 06:37:49,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-04-26 18:38:16,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
