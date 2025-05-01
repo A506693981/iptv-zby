@@ -451,7 +451,6 @@ CCTV-14,http://yc.myds.me:35455/itv/1000000001000008170.m3u8?cdn=ystenlive
 优漫卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225656/index.m3u8?IASHttpSessionId=
 哈哈炫动,http://39.134.64.87:6610/PLTV/88888888/224/3221225657/index.m3u8?IASHttpSessionId=
 黑莓动画,http://39.134.64.87:6610/PLTV/88888888/224/3221225662/index.m3u8?IASHttpSessionId=
-动漫秀场,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
 七龙珠,http://1.94.31.214:35455/huya/11601966
 七龙珠,http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
 猫和老鼠,http://huanqiuzhibo.cn/manifest/huya.php?id=11352879
@@ -628,4 +627,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 重案组,https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
 
 🕘️更新时间,#genre#
-2025-05-01 18:57:05,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-05-02 06:57:13,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
