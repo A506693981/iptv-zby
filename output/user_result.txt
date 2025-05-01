@@ -547,8 +547,8 @@ CCTV-14,http://yc.myds.me:35455/itv/1000000001000008170.m3u8?cdn=ystenlive
 黄飞鸿1之壮志凌云,http://jsmov2.a.yximgs.com/bs3/video-hls/5189554175568165120_hlsb.m3u8
 黄飞鸿2之男儿当自强,https://txmov2.a.kwimgs.com/upic/2020/05/16/01/BMjAyMDA1MTYwMTAyMjFfMjEyNDgzMjg2XzI4NjI3OTAwNTc5XzJfMw==_b_Bc1101c249e7355d840c4495b7bfd84a4.mp4
 黄飞鸿之铁鸡斗蜈蚣,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634242822045870_hlsb.m3u8
-警察故事,https://vip.lz-cdn1.com/20220404/878_6675a846/1200k/hls/mixed.m3u8
 警察故事,https://ukzy.ukubf3.com/20220402/N3nfxJ6i/index.m3u8
+警察故事,https://vip.lz-cdn1.com/20220404/878_6675a846/1200k/hls/mixed.m3u8
 警察故事2,http://jsmov2.a.yximgs.com/bs3/video-hls/5207568637401250631_hlsb.m3u8
 警察故事3 超级警察,https://txmov2.a.kwimgs.com/upic/2022/05/24/18/BMjAyMjA1MjQxODIxNTdfNDAzMDAxOTlfNzUxNjc2NDI5NjVfMF8z_b_B56696e4a122ac656a6b037fce6c92bd5.mp4
 新警察故事,http://jsmov2.a.yximgs.com/bs3/video-hls/5220235015225277883_hlsb.m3u8
@@ -567,16 +567,21 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 澳门风云2,https://vip.lz-cdn8.com/20220903/25590_a12ec6f7/index.m3u8
 澳门风云3,https://vip.lz-cdn8.com/20220903/25592_5fdbb860/index.m3u8
 尖峰时刻3,https://vip1.lz-cdn1.com/20220516/5780_3d375a51/1200k/hls/mixed.m3u8
+监狱风云1,https://vip.lz-cdn3.com/20230114/17167_f0f5a918/index.m3u8
+监狱风云2,https://vip.lz-cdn3.com/20230114/17169_e351e7c8/index.m3u8
 猛鬼入侵黑社会,https://v.cdnlz19.com/20240410/26916_a792b2eb/2000k/hls/mixed.m3u8
 羞羞鬼,http://jsmov2.a.yximgs.com/bs3/video-hls//5229523697125974635_hlsb.m3u8
 东方秃鹰,http://jsmov2.a.yximgs.com/bs3/video-hls/5218546164654879826_hlsb.m3u8
 曾经相爱的我们,https://vip1.lz-cdn1.com/20220516/5958_f2a5e885/1200k/hls/mixed.m3u8
 刀剑笑,http://jsmov2.a.yximgs.com/bs3/video-hls/5215168447635500734_hlsb.m3u8
+地球：神奇的一天,https://vip.lz-cdn3.com/20221114/15887_b3b2f329/1200k/hls/mixed.m3u8
 东方三侠,http://jsmov2.a.yximgs.com/bs3/video-hls/5222205346628851891_hlsb.m3u8
 功夫瑜伽,https://vip1.lz-cdn.com/20220812/28130_38a2cfba/1000k/hls/mixed.m3u8
 寒战,http://jsmov2.a.yximgs.com/bs3/video-hls/5226990400735682590_hlsb.m3u8
+寒战2,https://vip.lz-cdn3.com/20220907/12892_5eb849b0/index.m3u8
 洪福齐天,https://v.cdnlz19.com/20240215/15960_03ecf134/2000k/hls/mixed.m3u8
 葫芦兄弟,http://jsmov2.a.yximgs.com/bs3/video-hls/5223049779458999093_hlsb.m3u8
+花飞满城春,https://vip.lz-cdn3.com/20230715/20266_4e6d4caf/2000k/hls/mixed.m3u8
 火烧岛,https://vip1.lz-cdn1.com/20220522/6326_33ed779b/1200k/hls/mixed.m3u8
 集结号,https://txmov2.a.kwimgs.com/upic/2021/02/24/11/BMjAyMTAyMjQxMTE1MDlfNDAzMDAxOTlfNDQ5MjUwMTc4MzlfMF8z_b_Bf01a6129a3b10870755abbe165e07ae4.mp4
 九二神雕之痴心情长剑,http://jsmov2.a.yximgs.com/bs3/video-hls/5188428323796620673_hlsb.m3u8
@@ -593,6 +598,7 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 少林足球,http://jsmov2.a.yximgs.com/bs3/video-hls/5203065047959651388_hlsb.m3u8
 少年赌神,http://jsmov2.a.yximgs.com/bs3/video-hls/5253730517743567853_hlsb.m3u8
 蛇形刁手,https://vip1.lz-cdn1.com/20220413/1883_3fd46161/1200k/hls/mixed.m3u8
+神探蒲松龄,https://vip.lz-cdn3.com/20220930/14326_99ca3fbb/1200k/hls/mixed.m3u8
 噬魂剑,http://jsmov2.a.yximgs.com/bs3/video-hls//5202783575206012433_hlsb.m3u8
 双龙会,http://jsmov2.a.yximgs.com/bs3/video-hls/5199687336814310271_hlsb.m3u8
 四大名捕2012,https://txmov2.a.kwimgs.com/upic/2020/12/25/14/BMjAyMDEyMjUxNDM1MTJfNDAzMDAxOTlfNDEyNjQzODY5ODJfMF8z_b_B61e4b3069c98307be010773c799bdad6.mp4
@@ -601,6 +607,7 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 特务迷城,https://vip.lz-cdn1.com/20220411/1661_39b86486/1200k/hls/mixed.m3u8
 天若有情,http://jsmov2.a.yximgs.com/bs3/video-hls/5246412168297899387_hlsb.m3u8
 天若有情,https://txmov2.a.kwimgs.com/upic/2021/02/16/09/BMjAyMTAyMTYwOTI5NDRfNDAzMDAxOTlfNDQ0MjI0Mjk3ODFfMF8z_b_B73c61cc5ef4171eb35ea2f62d6da20d7.mp4
+铁掌旋风腿,https://vip.lz-cdn3.com/20230605/19332_398d79b4/2000k/hls/mixed.m3u8
 旺角卡门,https://txmov2.a.kwimgs.com/upic/2021/02/26/14/BMjAyMTAyMjYxNDA0NTJfNDAzMDAxOTlfNDUwNTg2MzczNTZfMF8z_b_B47b4dd965339d865184dcb23b2148e29.mp4
 新少林五祖,http://jsmov2.a.yximgs.com/bs3/video-hls/5226990421752301001_hlsb.m3u8
 新天龙八部之天山童姥,https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
@@ -612,11 +619,13 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 倚天屠龙记之魔教教主,http://jsmov2.a.yximgs.com/bs3/video-hls/5218264700326446854_hlsb.m3u8
 义胆雄心,http://jsmov2.a.yximgs.com/bs3/video-hls/5237686462055775486_hlsb.m3u8
 隐入尘烟,http://jsmov2.a.yximgs.com/bs3/video-hls/5194057840761439572_hlsb.m3u8
+英伦对决,https://vip.lz-cdn3.com/20221119/16084_02999cf1/1200k/hls/mixed.m3u8
 正牌韦小宝之奉旨沟女,https://m3u.nikanba.live/share/725df2d869994c37a2b11615195bd9c7.m3u8
+直捣黄龙,https://vip.lz-cdn3.com/20230623/19785_d14d1e58/2000k/hls/mixed.m3u8
 中国机长,https://txmov2.a.kwimgs.com/upic/2023/04/30/18/BMjAyMzA0MzAxODA4MjhfMTcwNzIxNjA3NF8xMDE4NzEwMjA1NDJfMF8z_b_B6de6ee41212c67378116157c65bf3038.mp4
 中南海保镖,http://jsmov2.a.yximgs.com/bs3/video-hls/5191243094765815668_hlsb.m3u8
 重案组,http://jsmov2.a.yximgs.com/bs3/video-hls/5238530899986631609_hlsb.m3u8
 重案组,https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
 
 🕘️更新时间,#genre#
-2025-05-01 06:46:14,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-05-01 18:57:05,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
