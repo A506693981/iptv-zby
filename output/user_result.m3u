@@ -891,6 +891,8 @@ http://39.134.64.87:6610/PLTV/88888888/224/3221225656/index.m3u8?IASHttpSessionI
 http://39.134.64.87:6610/PLTV/88888888/224/3221225657/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="🍍少儿频道",黑莓动画
 http://39.134.64.87:6610/PLTV/88888888/224/3221225662/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="🍍少儿频道",动漫秀场
+http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七龙珠.png" group-title="🍍少儿频道",七龙珠
 http://1.94.31.214:35455/huya/11601966
 #EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七龙珠.png" group-title="🍍少儿频道",七龙珠
@@ -1197,5 +1199,5 @@ http://jsmov2.a.yximgs.com/bs3/video-hls/5191243094765815668_hlsb.m3u8
 http://jsmov2.a.yximgs.com/bs3/video-hls/5238530899986631609_hlsb.m3u8
 #EXTINF:-1 tvg-name="重案组" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重案组.png" group-title="🎞️经典影片",重案组
 https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-05-12 06:40:31
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-05-12 18:44:51
 http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8

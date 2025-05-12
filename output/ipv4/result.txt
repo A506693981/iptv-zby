@@ -165,10 +165,10 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-17,http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpSessionId=
-CCTV-17,http://59.188.94.126:35455/bptv/10000100000000050000000003870758.m3u8
 CCTV-17,http://nctv.top/IDOEPpiryt/migu.php?id=cctv17
-CCTV-17,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7bfb0d&tk=6949f8ce7202
 CCTV-17,http://58.19.38.162:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17,http://cntv.dfkj.live/bestv.php?id=cctv17hd8m/8000000
+CCTV-17,https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
 CCTV-5+,http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8
 CCTV-5+,http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8
 CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
@@ -439,18 +439,19 @@ CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
 CCTV-14,http://39.134.65.173/PLTV/88888888/224/3221225674/1.m3u8
 CCTV-14,http://39.134.65.173/PLTV/88888888/224/3221226132/1.m3u8
 CCTV-14,http://39.134.64.87:6610/PLTV/88888888/224/3221225732/index.m3u8?IASHttpSessionId=
-CCTV-14,http://59.188.94.126:35455/bptv/10000100000000050000000003870756.m3u8
 CCTV-14,http://nctv.top/IDOEPpiryt/migu.php?id=cctv14
-CCTV-14,http://60.29.124.66:6080/hls/25/index.m3u8
-CCTV-14,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5a4aca&tk=6949f8ce7202
 CCTV-14,http://58.19.38.162:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14,http://222.173.108.238:352/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://113.195.8.194:9901/tsfile/live/0014_2.m3u8?key=txiptv&amp;amp;playlive=0&amp;amp;authid=0
+CCTV-14,http://112.46.105.20:8009/hls/14/index.m3u8
 CCTV-14,https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
+CCTV-14,http://110.53.52.63:8888/newlive/live/hls/16/live.m3u8
+CCTV-14,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5a4aca&tk=6949f8ce7202
 金鹰卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225653/index.m3u8?IASHttpSessionId=
 卡酷少儿,http://39.134.64.87:6610/PLTV/88888888/224/3221225654/index.m3u8?IASHttpSessionId=
 优漫卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225656/index.m3u8?IASHttpSessionId=
 哈哈炫动,http://39.134.64.87:6610/PLTV/88888888/224/3221225657/index.m3u8?IASHttpSessionId=
 黑莓动画,http://39.134.64.87:6610/PLTV/88888888/224/3221225662/index.m3u8?IASHttpSessionId=
+动漫秀场,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
 七龙珠,http://1.94.31.214:35455/huya/11601966
 七龙珠,http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
 猫和老鼠,http://huanqiuzhibo.cn/manifest/huya.php?id=11352879
@@ -497,6 +498,7 @@ CCTV-14,https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
 👉急救技能,#genre#
 
 🎞️经典影片,#genre#
+倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
 黄飞鸿2之男儿当自强,https://txmov2.a.kwimgs.com/upic/2020/05/16/01/BMjAyMDA1MTYwMTAyMjFfMjEyNDgzMjg2XzI4NjI3OTAwNTc5XzJfMw==_b_Bc1101c249e7355d840c4495b7bfd84a4.mp4
 警察故事,https://ukzy.ukubf3.com/20220402/N3nfxJ6i/index.m3u8
 警察故事,https://vip.lz-cdn1.com/20220404/878_6675a846/1200k/hls/mixed.m3u8
@@ -517,6 +519,7 @@ CCTV-14,https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
 猛鬼入侵黑社会,https://v.cdnlz19.com/20240410/26916_a792b2eb/2000k/hls/mixed.m3u8
 曾经相爱的我们,https://vip1.lz-cdn1.com/20220516/5958_f2a5e885/1200k/hls/mixed.m3u8
 功夫瑜伽,https://vip1.lz-cdn.com/20220812/28130_38a2cfba/1000k/hls/mixed.m3u8
+寒战,http://jsmov2.a.yximgs.com/bs3/video-hls/5226990400735682590_hlsb.m3u8
 洪福齐天,https://v.cdnlz19.com/20240215/15960_03ecf134/2000k/hls/mixed.m3u8
 火烧岛,https://vip1.lz-cdn1.com/20220522/6326_33ed779b/1200k/hls/mixed.m3u8
 集结号,https://txmov2.a.kwimgs.com/upic/2021/02/24/11/BMjAyMTAyMjQxMTE1MDlfNDAzMDAxOTlfNDQ5MjUwMTc4MzlfMF8z_b_Bf01a6129a3b10870755abbe165e07ae4.mp4
@@ -536,4 +539,4 @@ CCTV-14,https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
 重案组,https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
 
 🕘️更新时间,#genre#
-2025-05-12 06:40:31,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-05-12 18:44:51,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8

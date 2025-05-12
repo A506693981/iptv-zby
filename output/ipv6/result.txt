@@ -535,7 +535,6 @@ CCTV-14,http://yc.myds.me:35455/itv/1000000001000008170.m3u8?cdn=ystenlive
 👉急救技能,#genre#
 
 🎞️经典影片,#genre#
-倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
 倩女幽魂人间道,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
 倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
 黄飞鸿1之壮志凌云,http://jsmov2.a.yximgs.com/bs3/video-hls/5189554175568165120_hlsb.m3u8
@@ -548,7 +547,6 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 东方秃鹰,http://jsmov2.a.yximgs.com/bs3/video-hls/5218546164654879826_hlsb.m3u8
 刀剑笑,http://jsmov2.a.yximgs.com/bs3/video-hls/5215168447635500734_hlsb.m3u8
 东方三侠,http://jsmov2.a.yximgs.com/bs3/video-hls/5222205346628851891_hlsb.m3u8
-寒战,http://jsmov2.a.yximgs.com/bs3/video-hls/5226990400735682590_hlsb.m3u8
 葫芦兄弟,http://jsmov2.a.yximgs.com/bs3/video-hls/5223049779458999093_hlsb.m3u8
 九二神雕之痴心情长剑,http://jsmov2.a.yximgs.com/bs3/video-hls/5188428323796620673_hlsb.m3u8
 九一神雕侠侣,http://jsmov2.a.yximgs.com/bs3/video-hls/5227553349016599035_hlsb.m3u8
@@ -576,4 +574,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 重案组,http://jsmov2.a.yximgs.com/bs3/video-hls/5238530899986631609_hlsb.m3u8
 
 🕘️更新时间,#genre#
-2025-05-12 06:40:31,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-05-12 18:44:51,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8

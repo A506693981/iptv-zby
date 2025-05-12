@@ -332,13 +332,13 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🍎央视频道",CCTV-17
 http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🍎央视频道",CCTV-17
-http://59.188.94.126:35455/bptv/10000100000000050000000003870758.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🍎央视频道",CCTV-17
 http://nctv.top/IDOEPpiryt/migu.php?id=cctv17
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🍎央视频道",CCTV-17
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7bfb0d&tk=6949f8ce7202
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🍎央视频道",CCTV-17
 http://58.19.38.162:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🍎央视频道",CCTV-17
+http://cntv.dfkj.live/bestv.php?id=cctv17hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🍎央视频道",CCTV-17
+https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="🍎央视频道",CCTV-5+
 http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="🍎央视频道",CCTV-5+
@@ -868,19 +868,19 @@ http://39.134.65.173/PLTV/88888888/224/3221226132/1.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
 http://39.134.64.87:6610/PLTV/88888888/224/3221225732/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
-http://59.188.94.126:35455/bptv/10000100000000050000000003870756.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
 http://nctv.top/IDOEPpiryt/migu.php?id=cctv14
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
-http://60.29.124.66:6080/hls/25/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5a4aca&tk=6949f8ce7202
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
 http://58.19.38.162:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
-http://222.173.108.238:352/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.195.8.194:9901/tsfile/live/0014_2.m3u8?key=txiptv&amp;amp;playlive=0&amp;amp;authid=0
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
+http://112.46.105.20:8009/hls/14/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
 https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
+http://110.53.52.63:8888/newlive/live/hls/16/live.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5a4aca&tk=6949f8ce7202
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🍍少儿频道",金鹰卡通
 http://39.134.64.87:6610/PLTV/88888888/224/3221225653/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="🍍少儿频道",卡酷少儿
@@ -891,6 +891,8 @@ http://39.134.64.87:6610/PLTV/88888888/224/3221225656/index.m3u8?IASHttpSessionI
 http://39.134.64.87:6610/PLTV/88888888/224/3221225657/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="🍍少儿频道",黑莓动画
 http://39.134.64.87:6610/PLTV/88888888/224/3221225662/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="🍍少儿频道",动漫秀场
+http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七龙珠.png" group-title="🍍少儿频道",七龙珠
 http://1.94.31.214:35455/huya/11601966
 #EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七龙珠.png" group-title="🍍少儿频道",七龙珠
@@ -959,6 +961,8 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 #EXTINF:-1 tvg-name="2024年春节联欢晚会" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2024年春节联欢晚会.png" group-title="🧨历年春晚",2024年春节联欢晚会
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+#EXTINF:-1 tvg-name="倩女幽魂道道道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倩女幽魂道道道.png" group-title="🎞️经典影片",倩女幽魂道道道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
 #EXTINF:-1 tvg-name="黄飞鸿2之男儿当自强" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黄飞鸿2之男儿当自强.png" group-title="🎞️经典影片",黄飞鸿2之男儿当自强
 https://txmov2.a.kwimgs.com/upic/2020/05/16/01/BMjAyMDA1MTYwMTAyMjFfMjEyNDgzMjg2XzI4NjI3OTAwNTc5XzJfMw==_b_Bc1101c249e7355d840c4495b7bfd84a4.mp4
 #EXTINF:-1 tvg-name="警察故事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/警察故事.png" group-title="🎞️经典影片",警察故事
@@ -999,6 +1003,8 @@ https://v.cdnlz19.com/20240410/26916_a792b2eb/2000k/hls/mixed.m3u8
 https://vip1.lz-cdn1.com/20220516/5958_f2a5e885/1200k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="功夫瑜伽" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/功夫瑜伽.png" group-title="🎞️经典影片",功夫瑜伽
 https://vip1.lz-cdn.com/20220812/28130_38a2cfba/1000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="寒战" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寒战.png" group-title="🎞️经典影片",寒战
+http://jsmov2.a.yximgs.com/bs3/video-hls/5226990400735682590_hlsb.m3u8
 #EXTINF:-1 tvg-name="洪福齐天" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/洪福齐天.png" group-title="🎞️经典影片",洪福齐天
 https://v.cdnlz19.com/20240215/15960_03ecf134/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="火烧岛" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/火烧岛.png" group-title="🎞️经典影片",火烧岛
@@ -1033,5 +1039,5 @@ https://m3u.nikanba.live/share/725df2d869994c37a2b11615195bd9c7.m3u8
 https://txmov2.a.kwimgs.com/upic/2023/04/30/18/BMjAyMzA0MzAxODA4MjhfMTcwNzIxNjA3NF8xMDE4NzEwMjA1NDJfMF8z_b_B6de6ee41212c67378116157c65bf3038.mp4
 #EXTINF:-1 tvg-name="重案组" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重案组.png" group-title="🎞️经典影片",重案组
 https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-05-12 06:40:31
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-05-12 18:44:51
 http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
