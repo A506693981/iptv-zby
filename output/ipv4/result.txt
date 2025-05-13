@@ -165,10 +165,10 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-17,http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpSessionId=
+CCTV-17,http://59.188.94.126:35455/bptv/10000100000000050000000003870758.m3u8
 CCTV-17,http://tvbox6.icu/tv/migu.php?id=cctv17
 CCTV-17,http://nctv.top/IDOEPpiryt/migu.php?id=cctv17
-CCTV-17,http://cntv.dfkj.live/bestv.php?id=cctv17hd8m/8000000
-CCTV-17,http://58.19.38.162:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 CCTV-5+,http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8
 CCTV-5+,http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8
 CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
@@ -439,19 +439,18 @@ CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
 CCTV-14,http://39.134.65.173/PLTV/88888888/224/3221225674/1.m3u8
 CCTV-14,http://39.134.65.173/PLTV/88888888/224/3221226132/1.m3u8
 CCTV-14,http://39.134.64.87:6610/PLTV/88888888/224/3221225732/index.m3u8?IASHttpSessionId=
-CCTV-14,http://39.164.180.36:19901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-14,http://59.188.94.126:35455/bptv/10000100000000050000000003870756.m3u8
 CCTV-14,http://tvbox6.icu/tv/migu.php?id=cctv14
+CCTV-14,http://60.29.124.66:6080/hls/25/index.m3u8
 CCTV-14,http://nctv.top/IDOEPpiryt/migu.php?id=cctv14
-CCTV-14,http://58.19.38.162:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14,http://113.195.8.194:9901/tsfile/live/0014_2.m3u8?key=txiptv&amp;amp;playlive=0&amp;amp;authid=0
-CCTV-14,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14,http://183.66.15.146:60901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://42.225.117.174:11199/tsfile/live/0014_1.m3u8?key=txiptv&amp;amp;playlive=1&amp;amp;authid=0
+CCTV-14,http://39.164.180.36:19901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-14,http://113.56.95.69:53765/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225653/index.m3u8?IASHttpSessionId=
 卡酷少儿,http://39.134.64.87:6610/PLTV/88888888/224/3221225654/index.m3u8?IASHttpSessionId=
 优漫卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225656/index.m3u8?IASHttpSessionId=
 哈哈炫动,http://39.134.64.87:6610/PLTV/88888888/224/3221225657/index.m3u8?IASHttpSessionId=
 黑莓动画,http://39.134.64.87:6610/PLTV/88888888/224/3221225662/index.m3u8?IASHttpSessionId=
-动漫秀场,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
 七龙珠,http://1.94.31.214:35455/huya/11601966
 七龙珠,http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
 猫和老鼠,http://huanqiuzhibo.cn/manifest/huya.php?id=11352879
@@ -498,15 +497,12 @@ CCTV-14,http://183.66.15.146:60901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1
 👉急救技能,#genre#
 
 🎞️经典影片,#genre#
-黄飞鸿1之壮志凌云,https://cdn4.yzzy-tv-cdn.com/20220617/21900_8ceba9f5/index.m3u8
 黄飞鸿2之男儿当自强,https://txmov2.a.kwimgs.com/upic/2020/05/16/01/BMjAyMDA1MTYwMTAyMjFfMjEyNDgzMjg2XzI4NjI3OTAwNTc5XzJfMw==_b_Bc1101c249e7355d840c4495b7bfd84a4.mp4
-黄飞鸿2之男儿当自强,https://cdn4.yzzy-tv-cdn.com/20220606/17341_21dfaf46/index.m3u8
 警察故事,https://ukzy.ukubf3.com/20220402/N3nfxJ6i/index.m3u8
 警察故事,https://vip.lz-cdn1.com/20220404/878_6675a846/1200k/hls/mixed.m3u8
 警察故事3 超级警察,https://txmov2.a.kwimgs.com/upic/2022/05/24/18/BMjAyMjA1MjQxODIxNTdfNDAzMDAxOTlfNzUxNjc2NDI5NjVfMF8z_b_B56696e4a122ac656a6b037fce6c92bd5.mp4
 警察故事2013,https://txmov2.a.kwimgs.com/upic/2020/12/19/11/BMjAyMDEyMTkxMTE1NTFfNDAzMDAxOTlfNDA5NDA3ODAyNzRfMF8z_b_B4b2d907256032e448d0cfcc80d0a330c.mp4
 警察故事2013,https://vip1.lz-cdn1.com/20220420/2679_f713e430/1200k/hls/mixed.m3u8
-A计划续集,https://vip1.lz-cdn10.com/20221012/2732_9fd148be/1200k/hls/mixed.m3u8
 赌神2,https://txmov2.a.kwimgs.com/upic/2022/06/30/10/BMjAyMjA2MzAxMDQ4MTBfMzQ2ODQ5ODAxXzc3OTU2NDczMDcwXzBfMw==_b_B441bf57459ce6144e88f8567a5fac4ff.mp4
 赌神2,https://vip.lz-cdn.com/20220622/20003_820596d4/index.m3u8
 最佳拍档 1,https://m3u.nikanba.live/share/3616eb6814804b3d86b386b80795d30c.m3u8
@@ -514,54 +510,30 @@ A计划续集,https://vip1.lz-cdn10.com/20221012/2732_9fd148be/1200k/hls/mixed.m
 最佳拍档 3_女皇密令,https://m3u.nikanba.live/share/2c272adca580476da844c0c2a8677900.m3u8
 最佳拍档 4_千里救差婆,https://m3u.nikanba.live/share/892bc1fbadfd4bdc9bf8348076bbe0f8.m3u8
 醉拳,https://txmov2.a.kwimgs.com/upic/2021/09/30/18/BMjAyMTA5MzAxODM1NTFfMTI0MzE0NjMyOF81ODEwNDc3MzAzOF8yXzM=_b_B1b01bbe5b567f842b3de0b78109d1907.mp4
-醉拳,https://vip.lzcdn2.com/20220407/2609_2d217427/1200k/hls/mixed.m3u8
-醉拳3,https://vip.lzcdn2.com/20220528/7719_845dbb4a/1200k/hls/mixed.m3u8
 英雄本色3,https://txmov2.a.kwimgs.com/upic/2021/02/14/12/BMjAyMTAyMTQxMjI5MjlfNDAzMDAxOTlfNDQyOTM3MjUyNzVfMF8z_b_B1baaca7c95aa2ad7a088f38c266bceb5.mp4
-英雄本色3,https://vip.lz-cdn7.com/20230411/15301_64c1550f/index.m3u8
 澳门风云2,https://vip.lz-cdn8.com/20220903/25590_a12ec6f7/index.m3u8
 澳门风云3,https://vip.lz-cdn8.com/20220903/25592_5fdbb860/index.m3u8
 尖峰时刻3,https://vip1.lz-cdn1.com/20220516/5780_3d375a51/1200k/hls/mixed.m3u8
-僵尸叔叔,https://yzzy1.play-cdn16.com/20230507/4446_0faf555e/index.m3u8
 猛鬼入侵黑社会,https://v.cdnlz19.com/20240410/26916_a792b2eb/2000k/hls/mixed.m3u8
 曾经相爱的我们,https://vip1.lz-cdn1.com/20220516/5958_f2a5e885/1200k/hls/mixed.m3u8
-刁手怪招,https://cdn7.yzzy-tv-cdn.com/20220625/561_337bba55/index.m3u8
-方世玉,https://cdn4.yzzy-tv-cdn.com/20220606/17350_39c4425b/index.m3u8
-飞渡卷云山,https://vip1.lz-cdn7.com/20230219/14389_ca87b60c/2000k/hls/mixed.m3u8
 功夫瑜伽,https://vip1.lz-cdn.com/20220812/28130_38a2cfba/1000k/hls/mixed.m3u8
-功夫之王,https://vip.lzcdn2.com/20220328/870_2e271dfb/1200k/hls/mixed.m3u8
 洪福齐天,https://v.cdnlz19.com/20240215/15960_03ecf134/2000k/hls/mixed.m3u8
 火烧岛,https://vip1.lz-cdn1.com/20220522/6326_33ed779b/1200k/hls/mixed.m3u8
 集结号,https://txmov2.a.kwimgs.com/upic/2021/02/24/11/BMjAyMTAyMjQxMTE1MDlfNDAzMDAxOTlfNDQ5MjUwMTc4MzlfMF8z_b_Bf01a6129a3b10870755abbe165e07ae4.mp4
-解忧杂货店,https://vip.lzcdn2.com/20220503/5304_196cade3/1200k/hls/mixed.m3u8
-精武英雄,https://cdn5.yzzy-tv-cdn.com/20220607/22255_9e00edb7/index.m3u8
 咖喱辣椒,https://m3u.nikanba.live/share/95f7706116134e30838c03a1d304c85c.m3u8
-冒险王,https://cdn4.yzzy-tv-cdn.com/20220608/17622_c083f16b/index.m3u8
 摩登如来神掌,https://m3u.nikanba.live/share/9b0498f072dd44b4a7e434123b241573.m3u8
-炮弹飞车2,https://vip1.lz-cdn7.com/20230220/14422_5b8a1aed/2000k/hls/mixed.m3u8
-霹雳火,https://vip1.lz-cdn7.com/20230215/14264_e49dd103/2000k/hls/mixed.m3u8
 奇迹1989,https://vip1.lz-cdn1.com/20220404/947_529bcfa4/1200k/hls/mixed.m3u8
-拳精,https://vip.lzcdn2.com/20221112/22448_54ff8ab1/1200k/hls/mixed.m3u8
-杀手之王,https://cdn10.yzzy-tv-cdn.com/20221023/2307_200a0670/index.m3u8
-少林寺,https://cdn4.yzzy-tv-cdn.com/20220606/17324_133ab69b/index.m3u8
 蛇形刁手,https://vip1.lz-cdn1.com/20220413/1883_3fd46161/1200k/hls/mixed.m3u8
-射雕英雄传之东成西就,https://svip.high1-playback.com/20240416/43921_df2f246f/index.m3u8
-生龙活虎小英雄,https://v.cdnlz17.com/20231011/29061_76a6ec7c/2000k/hls/mixed.m3u8
 四大名捕2012,https://txmov2.a.kwimgs.com/upic/2020/12/25/14/BMjAyMDEyMjUxNDM1MTJfNDAzMDAxOTlfNDEyNjQzODY5ODJfMF8z_b_B61e4b3069c98307be010773c799bdad6.mp4
-太极张三丰,https://cdn8.yzzy-tv-cdn.com/20220713/4780_8d927b57/index.m3u8
 特务迷城,https://vip.lz-cdn1.com/20220411/1661_39b86486/1200k/hls/mixed.m3u8
 天若有情,https://txmov2.a.kwimgs.com/upic/2021/02/16/09/BMjAyMTAyMTYwOTI5NDRfNDAzMDAxOTlfNDQ0MjI0Mjk3ODFfMF8z_b_B73c61cc5ef4171eb35ea2f62d6da20d7.mp4
-铁金刚大破紫阳观,https://v.cdnlz17.com/20231009/28713_5531c328/2000k/hls/mixed.m3u8
-投名状,https://cdn13.yzzy-tv-cdn.com/20230128/9592_3d21d729/index.m3u8
 旺角卡门,https://txmov2.a.kwimgs.com/upic/2021/02/26/14/BMjAyMTAyMjYxNDA0NTJfNDAzMDAxOTlfNDUwNTg2MzczNTZfMF8z_b_B47b4dd965339d865184dcb23b2148e29.mp4
-威龙猛探,https://vip1.lz-cdn7.com/20230212/14191_de7ce1b2/2000k/hls/mixed.m3u8
-喜剧之王,https://vip.lzcdn2.com/20220318/38_f03aa8b5/1200k/hls/mixed.m3u8
 新天龙八部之天山童姥,https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
 新最佳拍档,https://m3u.nikanba.live/share/ad4f2806bf95471bb0bf95073c70332c.m3u8
 血观音,http://visionularcdn.yishihui.com/output/longvideo/multitranscode/video/vpc/20230405/15607217BFoYHXt3BVXBRfB2Qh20230405211000420274909-3HD.m3u8
 正牌韦小宝之奉旨沟女,https://m3u.nikanba.live/share/725df2d869994c37a2b11615195bd9c7.m3u8
 中国机长,https://txmov2.a.kwimgs.com/upic/2023/04/30/18/BMjAyMzA0MzAxODA4MjhfMTcwNzIxNjA3NF8xMDE4NzEwMjA1NDJfMF8z_b_B6de6ee41212c67378116157c65bf3038.mp4
-中南海保镖,https://cdn12.yzzy-tv-cdn.com/20221209/8943_e3bd0850/index.m3u8
 重案组,https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
 
 🕘️更新时间,#genre#
-2025-05-13 18:39:52,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-05-14 06:35:38,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
