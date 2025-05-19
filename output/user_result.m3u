@@ -1173,8 +1173,6 @@ http://jsmov2.a.yximgs.com/bs3/video-hls/5226990421752301001_hlsb.m3u8
 https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
 #EXTINF:-1 tvg-name="新最佳拍档" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新最佳拍档.png" group-title="🎞️经典影片",新最佳拍档
 https://m3u.nikanba.live/share/ad4f2806bf95471bb0bf95073c70332c.m3u8
-#EXTINF:-1 tvg-name="血观音" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/血观音.png" group-title="🎞️经典影片",血观音
-http://visionularcdn.yishihui.com/output/longvideo/multitranscode/video/vpc/20230405/15607217BFoYHXt3BVXBRfB2Qh20230405211000420274909-3HD.m3u8
 #EXTINF:-1 tvg-name="血战台儿庄" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/血战台儿庄.png" group-title="🎞️经典影片",血战台儿庄
 http://jsmov2.a.yximgs.com/bs3/video-hls/5242471549080321487_hlsb.m3u8
 #EXTINF:-1 tvg-name="叶问1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/叶问1.png" group-title="🎞️经典影片",叶问1
@@ -1197,5 +1195,5 @@ http://jsmov2.a.yximgs.com/bs3/video-hls/5191243094765815668_hlsb.m3u8
 http://jsmov2.a.yximgs.com/bs3/video-hls/5238530899986631609_hlsb.m3u8
 #EXTINF:-1 tvg-name="重案组" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重案组.png" group-title="🎞️经典影片",重案组
 https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-05-19 18:35:54
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-05-20 06:33:37
 http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8

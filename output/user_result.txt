@@ -604,7 +604,6 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 新少林五祖,http://jsmov2.a.yximgs.com/bs3/video-hls/5226990421752301001_hlsb.m3u8
 新天龙八部之天山童姥,https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
 新最佳拍档,https://m3u.nikanba.live/share/ad4f2806bf95471bb0bf95073c70332c.m3u8
-血观音,http://visionularcdn.yishihui.com/output/longvideo/multitranscode/video/vpc/20230405/15607217BFoYHXt3BVXBRfB2Qh20230405211000420274909-3HD.m3u8
 血战台儿庄,http://jsmov2.a.yximgs.com/bs3/video-hls/5242471549080321487_hlsb.m3u8
 叶问1,http://jsmov2.a.yximgs.com/bs3/video-hls/5220516421292450272_hlsb.m3u8
 一个好人,http://jsmov2.a.yximgs.com/bs3/video-hls/5248663982858337076_hlsb.m3u8
@@ -618,4 +617,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 重案组,https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
 
 🕘️更新时间,#genre#
-2025-05-19 18:35:54,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-05-20 06:33:37,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
