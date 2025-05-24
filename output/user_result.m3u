@@ -1058,9 +1058,9 @@ https://txmov2.a.kwimgs.com/upic/2020/05/16/01/BMjAyMDA1MTYwMTAyMjFfMjEyNDgzMjg2
 #EXTINF:-1 tvg-name="黄飞鸿之铁鸡斗蜈蚣" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黄飞鸿之铁鸡斗蜈蚣.png" group-title="🎞️经典影片",黄飞鸿之铁鸡斗蜈蚣
 http://jsmov2.a.yximgs.com/bs3/video-hls/5250634242822045870_hlsb.m3u8
 #EXTINF:-1 tvg-name="警察故事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/警察故事.png" group-title="🎞️经典影片",警察故事
-https://vip.lz-cdn1.com/20220404/878_6675a846/1200k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="警察故事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/警察故事.png" group-title="🎞️经典影片",警察故事
 https://ukzy.ukubf3.com/20220402/N3nfxJ6i/index.m3u8
+#EXTINF:-1 tvg-name="警察故事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/警察故事.png" group-title="🎞️经典影片",警察故事
+https://vip.lz-cdn1.com/20220404/878_6675a846/1200k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="警察故事2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/警察故事2.png" group-title="🎞️经典影片",警察故事2
 http://jsmov2.a.yximgs.com/bs3/video-hls/5207568637401250631_hlsb.m3u8
 #EXTINF:-1 tvg-name="警察故事3 超级警察" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/警察故事3 超级警察.png" group-title="🎞️经典影片",警察故事3 超级警察
@@ -1197,5 +1197,5 @@ http://jsmov2.a.yximgs.com/bs3/video-hls/5191243094765815668_hlsb.m3u8
 http://jsmov2.a.yximgs.com/bs3/video-hls/5238530899986631609_hlsb.m3u8
 #EXTINF:-1 tvg-name="重案组" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重案组.png" group-title="🎞️经典影片",重案组
 https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-05-24 06:32:41
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-05-24 18:33:54
 http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
