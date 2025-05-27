@@ -554,8 +554,8 @@ CCTV-14,http://yc.myds.me:35455/itv/1000000001000008170.m3u8?cdn=ystenlive
 警察故事2013,https://txmov2.a.kwimgs.com/upic/2020/12/19/11/BMjAyMDEyMTkxMTE1NTFfNDAzMDAxOTlfNDA5NDA3ODAyNzRfMF8z_b_B4b2d907256032e448d0cfcc80d0a330c.mp4
 警察故事2013,https://vip1.lz-cdn1.com/20220420/2679_f713e430/1200k/hls/mixed.m3u8
 A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
-赌神2,https://vip.lz-cdn.com/20220622/20003_820596d4/index.m3u8
 赌神2,https://txmov2.a.kwimgs.com/upic/2022/06/30/10/BMjAyMjA2MzAxMDQ4MTBfMzQ2ODQ5ODAxXzc3OTU2NDczMDcwXzBfMw==_b_B441bf57459ce6144e88f8567a5fac4ff.mp4
+赌神2,https://vip.lz-cdn.com/20220622/20003_820596d4/index.m3u8
 醉拳,https://txmov2.a.kwimgs.com/upic/2021/09/30/18/BMjAyMTA5MzAxODM1NTFfMTI0MzE0NjMyOF81ODEwNDc3MzAzOF8yXzM=_b_B1b01bbe5b567f842b3de0b78109d1907.mp4
 英雄本色3,https://txmov2.a.kwimgs.com/upic/2021/02/14/12/BMjAyMTAyMTQxMjI5MjlfNDAzMDAxOTlfNDQyOTM3MjUyNzVfMF8z_b_B1baaca7c95aa2ad7a088f38c266bceb5.mp4
 人在囧途,http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
@@ -610,4 +610,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 重案组,https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
 
 🕘️更新时间,#genre#
-2025-05-27 18:33:01,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-05-28 06:32:29,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
