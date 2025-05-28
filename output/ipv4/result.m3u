@@ -338,7 +338,7 @@ http://cntv.dfkj.live/bestv.php?id=cctv17hd8m/8000000
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🍎央视频道",CCTV-17
 http://58.19.38.162:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="🍎央视频道",CCTV-17
-http://120.76.248.139/live/bfgd/4200000204.m3u8
+http://111.43.126.240:9003/hls/30/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="🍎央视频道",CCTV-5+
 http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="🍎央视频道",CCTV-5+
@@ -868,19 +868,19 @@ http://39.134.65.173/PLTV/88888888/224/3221226132/1.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
 http://39.134.64.87:6610/PLTV/88888888/224/3221225732/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
+http://60.29.124.66:6080/hls/25/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
 http://tvbox6.icu/tv/migu.php?id=cctv14
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
-http://112.101.78.50:9901/tsfile/live/0014_1.m3u8
+http://39.164.180.36:19901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
 http://58.19.38.162:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
 http://42.225.117.174:11199/tsfile/live/0014_1.m3u8?key=txiptv&amp;amp;playlive=1&amp;amp;authid=0
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
-http://120.76.248.139/live/bfgd/4200000132.m3u8
+http://101.66.194.212:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
-http://61.156.228.12:8154/tsfile/live/0014_1.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14
-http://39.164.160.249:9901/tsfile/live/0014_1.m3u8
+http://112.101.78.50:9901/tsfile/live/0014_1.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🍍少儿频道",金鹰卡通
 http://39.134.64.87:6610/PLTV/88888888/224/3221225653/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="🍍少儿频道",卡酷少儿
@@ -962,9 +962,9 @@ https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_64
 #EXTINF:-1 tvg-name="黄飞鸿2之男儿当自强" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黄飞鸿2之男儿当自强.png" group-title="🎞️经典影片",黄飞鸿2之男儿当自强
 https://txmov2.a.kwimgs.com/upic/2020/05/16/01/BMjAyMDA1MTYwMTAyMjFfMjEyNDgzMjg2XzI4NjI3OTAwNTc5XzJfMw==_b_Bc1101c249e7355d840c4495b7bfd84a4.mp4
 #EXTINF:-1 tvg-name="警察故事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/警察故事.png" group-title="🎞️经典影片",警察故事
-https://ukzy.ukubf3.com/20220402/N3nfxJ6i/index.m3u8
-#EXTINF:-1 tvg-name="警察故事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/警察故事.png" group-title="🎞️经典影片",警察故事
 https://vip.lz-cdn1.com/20220404/878_6675a846/1200k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="警察故事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/警察故事.png" group-title="🎞️经典影片",警察故事
+https://ukzy.ukubf3.com/20220402/N3nfxJ6i/index.m3u8
 #EXTINF:-1 tvg-name="警察故事3 超级警察" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/警察故事3 超级警察.png" group-title="🎞️经典影片",警察故事3 超级警察
 https://txmov2.a.kwimgs.com/upic/2022/05/24/18/BMjAyMjA1MjQxODIxNTdfNDAzMDAxOTlfNzUxNjc2NDI5NjVfMF8z_b_B56696e4a122ac656a6b037fce6c92bd5.mp4
 #EXTINF:-1 tvg-name="警察故事2013" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/警察故事2013.png" group-title="🎞️经典影片",警察故事2013
@@ -1033,5 +1033,5 @@ https://m3u.nikanba.live/share/725df2d869994c37a2b11615195bd9c7.m3u8
 https://txmov2.a.kwimgs.com/upic/2023/04/30/18/BMjAyMzA0MzAxODA4MjhfMTcwNzIxNjA3NF8xMDE4NzEwMjA1NDJfMF8z_b_B6de6ee41212c67378116157c65bf3038.mp4
 #EXTINF:-1 tvg-name="重案组" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重案组.png" group-title="🎞️经典影片",重案组
 https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-05-28 18:33:55
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-05-29 06:32:14
 http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
