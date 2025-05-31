@@ -167,8 +167,8 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-17,http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpSessionId=
 CCTV-17,http://cntv.dfkj.live/bestv.php?id=cctv17hd8m/8000000
 CCTV-17,http://tvbox6.icu/tv/migu.php?id=cctv17
+CCTV-17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://58.19.38.162:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-17,https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
 CCTV-5+,http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8
 CCTV-5+,http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8
 CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
@@ -439,13 +439,13 @@ CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
 CCTV-14,http://39.134.65.173/PLTV/88888888/224/3221225674/1.m3u8
 CCTV-14,http://39.134.65.173/PLTV/88888888/224/3221226132/1.m3u8
 CCTV-14,http://39.134.64.87:6610/PLTV/88888888/224/3221225732/index.m3u8?IASHttpSessionId=
-CCTV-14,http://222.134.245.16:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://182.91.124.224:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-14,http://tvbox6.icu/tv/migu.php?id=cctv14
-CCTV-14,http://39.164.180.36:19901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-14,http://60.29.124.66:6080/hls/25/index.m3u8
+CCTV-14,http://42.225.117.174:11199/tsfile/live/0014_1.m3u8?key=txiptv&amp;amp;playlive=1&amp;amp;authid=0
+CCTV-14,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://60.174.40.117:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://58.19.38.162:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://112.101.78.50:9901/tsfile/live/0014_1.m3u8
-CCTV-14,http://42.225.117.174:11199/tsfile/live/0014_1.m3u8?key=txiptv&amp;amp;playlive=1&amp;amp;authid=0
 金鹰卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225653/index.m3u8?IASHttpSessionId=
 卡酷少儿,http://39.134.64.87:6610/PLTV/88888888/224/3221225654/index.m3u8?IASHttpSessionId=
 优漫卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225656/index.m3u8?IASHttpSessionId=
@@ -514,35 +514,26 @@ CCTV-14,http://42.225.117.174:11199/tsfile/live/0014_1.m3u8?key=txiptv&amp;amp;p
 澳门风云2,https://vip.lz-cdn8.com/20220903/25590_a12ec6f7/index.m3u8
 澳门风云3,https://vip.lz-cdn8.com/20220903/25592_5fdbb860/index.m3u8
 尖峰时刻3,https://vip1.lz-cdn1.com/20220516/5780_3d375a51/1200k/hls/mixed.m3u8
-监狱风云1,https://vip.lz-cdn3.com/20230114/17167_f0f5a918/index.m3u8
-监狱风云2,https://vip.lz-cdn3.com/20230114/17169_e351e7c8/index.m3u8
 猛鬼入侵黑社会,https://v.cdnlz19.com/20240410/26916_a792b2eb/2000k/hls/mixed.m3u8
 曾经相爱的我们,https://vip1.lz-cdn1.com/20220516/5958_f2a5e885/1200k/hls/mixed.m3u8
-地球：神奇的一天,https://vip.lz-cdn3.com/20221114/15887_b3b2f329/1200k/hls/mixed.m3u8
 功夫瑜伽,https://vip1.lz-cdn.com/20220812/28130_38a2cfba/1000k/hls/mixed.m3u8
-寒战2,https://vip.lz-cdn3.com/20220907/12892_5eb849b0/index.m3u8
 洪福齐天,https://v.cdnlz19.com/20240215/15960_03ecf134/2000k/hls/mixed.m3u8
-花飞满城春,https://vip.lz-cdn3.com/20230715/20266_4e6d4caf/2000k/hls/mixed.m3u8
 火烧岛,https://vip1.lz-cdn1.com/20220522/6326_33ed779b/1200k/hls/mixed.m3u8
 集结号,https://txmov2.a.kwimgs.com/upic/2021/02/24/11/BMjAyMTAyMjQxMTE1MDlfNDAzMDAxOTlfNDQ5MjUwMTc4MzlfMF8z_b_Bf01a6129a3b10870755abbe165e07ae4.mp4
 咖喱辣椒,https://m3u.nikanba.live/share/95f7706116134e30838c03a1d304c85c.m3u8
 摩登如来神掌,https://m3u.nikanba.live/share/9b0498f072dd44b4a7e434123b241573.m3u8
 奇迹1989,https://vip1.lz-cdn1.com/20220404/947_529bcfa4/1200k/hls/mixed.m3u8
 蛇形刁手,https://vip1.lz-cdn1.com/20220413/1883_3fd46161/1200k/hls/mixed.m3u8
-神探蒲松龄,https://vip.lz-cdn3.com/20220930/14326_99ca3fbb/1200k/hls/mixed.m3u8
 四大名捕2012,https://txmov2.a.kwimgs.com/upic/2020/12/25/14/BMjAyMDEyMjUxNDM1MTJfNDAzMDAxOTlfNDEyNjQzODY5ODJfMF8z_b_B61e4b3069c98307be010773c799bdad6.mp4
 特务迷城,https://vip.lz-cdn1.com/20220411/1661_39b86486/1200k/hls/mixed.m3u8
 天若有情,https://txmov2.a.kwimgs.com/upic/2021/02/16/09/BMjAyMTAyMTYwOTI5NDRfNDAzMDAxOTlfNDQ0MjI0Mjk3ODFfMF8z_b_B73c61cc5ef4171eb35ea2f62d6da20d7.mp4
-铁掌旋风腿,https://vip.lz-cdn3.com/20230605/19332_398d79b4/2000k/hls/mixed.m3u8
 旺角卡门,https://txmov2.a.kwimgs.com/upic/2021/02/26/14/BMjAyMTAyMjYxNDA0NTJfNDAzMDAxOTlfNDUwNTg2MzczNTZfMF8z_b_B47b4dd965339d865184dcb23b2148e29.mp4
 新天龙八部之天山童姥,https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
 新最佳拍档,https://m3u.nikanba.live/share/ad4f2806bf95471bb0bf95073c70332c.m3u8
 血观音,http://visionularcdn.yishihui.com/output/longvideo/multitranscode/video/vpc/20230405/15607217BFoYHXt3BVXBRfB2Qh20230405211000420274909-3HD.m3u8
-英伦对决,https://vip.lz-cdn3.com/20221119/16084_02999cf1/1200k/hls/mixed.m3u8
 正牌韦小宝之奉旨沟女,https://m3u.nikanba.live/share/725df2d869994c37a2b11615195bd9c7.m3u8
-直捣黄龙,https://vip.lz-cdn3.com/20230623/19785_d14d1e58/2000k/hls/mixed.m3u8
 中国机长,https://txmov2.a.kwimgs.com/upic/2023/04/30/18/BMjAyMzA0MzAxODA4MjhfMTcwNzIxNjA3NF8xMDE4NzEwMjA1NDJfMF8z_b_B6de6ee41212c67378116157c65bf3038.mp4
 重案组,https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
 
 🕘️更新时间,#genre#
-2025-05-31 06:31:43,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-05-31 18:33:09,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
