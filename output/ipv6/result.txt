@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-10 18:14:15,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-06-11 06:10:47,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
 
 🍎央视频道,#genre#
 CCTV-1,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
@@ -820,6 +820,7 @@ CCTV-14,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓动画,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8
+海绵宝宝,https://live.metshop.top/douyu/3949681
 
 🍋经典剧场,#genre#
 水浒传,http://www.clmy.cc:35455/yy/1353873252
