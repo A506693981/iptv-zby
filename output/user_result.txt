@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-20 18:12:11,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-06-21 06:11:03,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
 
 🍎央视频道,#genre#
 CCTV-1,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
@@ -76,22 +76,22 @@ CCTV-7,http://39.134.65.173/PLTV/88888888/224/3221225671/1.m3u8
 CCTV-7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV-7,http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8
 CCTV-7,http://39.134.64.87:6610/PLTV/88888888/224/3221225733/index.m3u8?IASHttpSessionId=
+CCTV-7,http://116.9.204.242:9901/tsfile/live/0007_1.m3u8
 CCTV-7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
 CCTV-7,http://goo.bkpcp.top/mg/CCTV7
 CCTV-7,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000504/index.m3u8
 CCTV-7,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8
 CCTV-7,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV-7,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV-8,http://39.134.65.173/PLTV/88888888/224/3221225795/1.m3u8
 CCTV-8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV-8,http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
 CCTV-8,http://39.134.64.87:6610/PLTV/88888888/224/3221226008/index.m3u8?IASHttpSessionId=
-CCTV-8,http://58.19.43.46:9901/tsfile/live/1027_1.m3u8
 CCTV-8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
 CCTV-8,http://goo.bkpcp.top/mg/cctv8
 CCTV-8,http://[2409:8087:74f0:22::9]:6410/270000001111/1110000309/index.m3u8
 CCTV-8,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/index.m3u8
 CCTV-8,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-8,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV-9,http://39.134.65.173/PLTV/88888888/224/3221225676/1.m3u8
 CCTV-9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV-9,http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
@@ -166,12 +166,12 @@ CCTV-16,http://39.134.65.173/PLTV/88888888/224/3221225893/1.m3u8
 CCTV-16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
 CCTV-16,http://39.134.64.87:6610/PLTV/88888888/224/3221226100/index.m3u8?IASHttpSessionId=
+CCTV-16,http://115.190.105.236:8123/live/cctv16?token=OK
 CCTV-16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 CCTV-16,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8
 CCTV-16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
 CCTV-16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-16,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8
 CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 CCTV-17,http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpSessionId=
@@ -619,6 +619,8 @@ CGTN阿拉伯语,http://39.134.64.87:6610/PLTV/88888888/224/3221226517/index.m3u
 黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
 北京纪实科教,http://39.134.64.87:6610/PLTV/88888888/224/3221225729/index.m3u8?IASHttpSessionId=
 北京纪实科教,http://39.134.64.87:6610/PLTV/88888888/224/3221225729/index.m3u8?IASHttpSessionId=
+北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1750366754&sign=dc355c78a78c0c99693d2530564176c7
+北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1750276811&sign=84c4968a2f78f36f87e9311e2ebec7e5
 北京纪实科教,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejj3PtVjzl6ZzFdM-Vi1dmQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPJa61jREJv4ZfZigyrxX0U%2CEND
 
 🍑高清频道,#genre#
