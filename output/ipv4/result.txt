@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-06 06:09:28,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-07-06 18:10:40,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
 
 🍎央视频道,#genre#
 CCTV-1,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
@@ -21,6 +21,7 @@ CCTV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV-4,http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
 CCTV-4,http://39.134.64.87:6610/PLTV/88888888/224/3221226428/index.m3u8?IASHttpSessionId=
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4,http://218.89.240.144:59901/tsfile/live/1001_1.m3u8
 CCTV-5,http://39.134.65.173/PLTV/88888888/224/3221225818/1.m3u8
 CCTV-5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-5,http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
@@ -38,7 +39,7 @@ CCTV-7,http://39.134.65.173/PLTV/88888888/224/3221225671/1.m3u8
 CCTV-7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV-7,http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8
 CCTV-7,http://39.134.64.87:6610/PLTV/88888888/224/3221225733/index.m3u8?IASHttpSessionId=
-CCTV-7,http://124.116.183.146:9901/tsfile/live/0007_1.m3u8
+CCTV-7,http://120.238.94.10:9901/tsfile/live/1025_1.m3u8
 CCTV-8,http://39.134.65.173/PLTV/88888888/224/3221225795/1.m3u8
 CCTV-8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV-8,http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
@@ -664,8 +665,6 @@ CCTV-14,http://39.134.64.87:6610/PLTV/88888888/224/3221225732/index.m3u8?IASHttp
 黑莓动画,http://39.134.64.87:6610/PLTV/88888888/224/3221225662/index.m3u8?IASHttpSessionId=
 
 🍋经典剧场,#genre#
-三国演义,http://lunbo.freetv.top/yy/1354930932
-三国演义,https://lunbo.freetv.top/yy/1354930932
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
 
 📯莆仙戏曲,#genre#
