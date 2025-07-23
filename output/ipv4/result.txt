@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-23 18:12:22,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-07-24 06:11:20,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
 
 🍎央视频道,#genre#
 CCTV-1,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
@@ -484,7 +484,6 @@ CGTN阿拉伯语,http://39.134.64.87:6610/PLTV/88888888/224/3221226517/index.m3u
 康巴卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221225660/index.m3u8?IASHttpSessionId=
 金鹰卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225653/index.m3u8?IASHttpSessionId=
 金鹰卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225653/index.m3u8?IASHttpSessionId=
-金鹰卡通,http://nas.hssvm.com:8888/udp/225.1.2.236:5002
 卡酷少儿,http://39.134.64.87:6610/PLTV/88888888/224/3221225654/index.m3u8?IASHttpSessionId=
 卡酷少儿,http://39.134.64.87:6610/PLTV/88888888/224/3221225654/index.m3u8?IASHttpSessionId=
 优漫卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225656/index.m3u8?IASHttpSessionId=
@@ -661,10 +660,12 @@ CCTV-14,http://39.134.64.87:6610/PLTV/88888888/224/3221225732/index.m3u8?IASHttp
 哈哈炫动,http://39.134.64.87:6610/PLTV/88888888/224/3221225657/index.m3u8?IASHttpSessionId=
 黑莓动画,http://39.134.64.87:6610/PLTV/88888888/224/3221225662/index.m3u8?IASHttpSessionId=
 黑莓动画,http://39.134.64.87:6610/PLTV/88888888/224/3221225662/index.m3u8?IASHttpSessionId=
+名侦探柯南,http://iptv.jxpan.vip:18888/aio/huya/30080236
+七龙珠,http://iptv.jxpan.vip:18888/aio/huya/11601966
 
 🍋经典剧场,#genre#
-三国演义,https://lunbo.freetv.top/yy/1354930932
 三国演义,http://lunbo.freetv.top/yy/1354930932
+三国演义,https://lunbo.freetv.top/yy/1354930932
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
 
 📯莆仙戏曲,#genre#
