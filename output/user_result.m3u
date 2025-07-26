@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/A506693981/iptv-zby/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="██████████████████████████████████████████████████████████████████████████████████████████████████████████" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/██████████████████████████████████████████████████████████████████████████████████████████████████████████.png" group-title="🕘️更新时间",2025-07-26 18:10:25
+#EXTINF:-1 tvg-name="██████████████████████████████████████████████████████████████████████████████████████████████████████████" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/██████████████████████████████████████████████████████████████████████████████████████████████████████████.png" group-title="🕘️更新时间",2025-07-27 06:10:52
 http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🍎央视频道",CCTV-1
 http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
@@ -1559,6 +1559,8 @@ https://stream1.freetv.fun/chcying-mi-dian-ying-12.ctv
 https://stream1.freetv.fun/chcying-mi-dian-ying-15.ctv
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="🍑高清频道",CHC影迷电影
 http://eastscreen.tv/ooooo.php
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="🍑高清频道",CHC影迷电影
+https://migu.188766.xyz/?migutoken=cba3ea508f820fa23c15bc9ded5355f1&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="🍑高清频道",经典电影
 https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="🍑高清频道",经典电影
@@ -1637,6 +1639,10 @@ https://live.metshop.top/douyu/3949681
 https://live.iill.top/huya/11352879
 #EXTINF:-1 tvg-name="名侦探柯南" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/名侦探柯南.png" group-title="🍍少儿频道",名侦探柯南
 http://iptv.jxpan.vip:18888/aio/huya/30080236
+#EXTINF:-1 tvg-name="三国演义" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三国演义.png" group-title="🍋经典剧场",三国演义
+http://lunbo.freetv.top/yy/1354930932
+#EXTINF:-1 tvg-name="三国演义" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三国演义.png" group-title="🍋经典剧场",三国演义
+https://lunbo.freetv.top/yy/1354930932
 #EXTINF:-1 tvg-name="水浒传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/水浒传.png" group-title="🍋经典剧场",水浒传
 http://www.clmy.cc:35455/yy/1353873252
 #EXTINF:-1 tvg-name="西游记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记.png" group-title="🍋经典剧场",西游记

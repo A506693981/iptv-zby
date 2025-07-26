@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-26 18:10:25,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-07-27 06:10:52,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
 
 🍎央视频道,#genre#
 CCTV-1,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
@@ -785,6 +785,7 @@ CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-2.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-12.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-15.ctv
 CHC影迷电影,http://eastscreen.tv/ooooo.php
+CHC影迷电影,https://migu.188766.xyz/?migutoken=cba3ea508f820fa23c15bc9ded5355f1&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
 
@@ -828,6 +829,8 @@ CCTV-14,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 名侦探柯南,http://iptv.jxpan.vip:18888/aio/huya/30080236
 
 🍋经典剧场,#genre#
+三国演义,http://lunbo.freetv.top/yy/1354930932
+三国演义,https://lunbo.freetv.top/yy/1354930932
 水浒传,http://www.clmy.cc:35455/yy/1353873252
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
 

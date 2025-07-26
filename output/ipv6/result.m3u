@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/A506693981/iptv-zby/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="██████████████████████████████████████████████████████████████████████████████████████████████████████████" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/██████████████████████████████████████████████████████████████████████████████████████████████████████████.png" group-title="🕘️更新时间",2025-07-26 18:10:25
+#EXTINF:-1 tvg-name="██████████████████████████████████████████████████████████████████████████████████████████████████████████" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/██████████████████████████████████████████████████████████████████████████████████████████████████████████.png" group-title="🕘️更新时间",2025-07-27 06:10:52
 http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🍎央视频道",CCTV-1
 http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
@@ -1555,6 +1555,8 @@ https://stream1.freetv.fun/chcying-mi-dian-ying-12.ctv
 https://stream1.freetv.fun/chcying-mi-dian-ying-15.ctv
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="🍑高清频道",CHC影迷电影
 http://eastscreen.tv/ooooo.php
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="🍑高清频道",CHC影迷电影
+https://migu.188766.xyz/?migutoken=cba3ea508f820fa23c15bc9ded5355f1&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="🍑高清频道",经典电影
 http://goo.bkpcp.top/mg/jdxgdy
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🍍少儿频道",CCTV-14

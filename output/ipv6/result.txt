@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-26 18:10:25,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-07-27 06:10:52,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
 
 🍎央视频道,#genre#
 CCTV-1,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
@@ -783,6 +783,7 @@ CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-2.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-12.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-15.ctv
 CHC影迷电影,http://eastscreen.tv/ooooo.php
+CHC影迷电影,https://migu.188766.xyz/?migutoken=cba3ea508f820fa23c15bc9ded5355f1&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
 
 🍍少儿频道,#genre#
