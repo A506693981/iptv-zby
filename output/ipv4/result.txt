@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-04 12:43:34,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-08-04 13:03:37,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
 
 🍎央视频道,#genre#
 CCTV-1,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
@@ -284,21 +284,6 @@ CGTN俄语,http://39.134.64.87:6610/PLTV/88888888/224/3221226543/index.m3u8?IASH
 延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
 安多卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221225659/index.m3u8?IASHttpSessionId=
 康巴卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221225660/index.m3u8?IASHttpSessionId=
-大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
-大湾区卫视,http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
-大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8
-大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
-大湾区卫视,http://3501776.xyz:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
-山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-山东教育,http://120.238.94.10:9901/tsfile/live/1062_1.m3u8?key=txiptv
-山东教育,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227291/10000100000000060000000001945822_0.smil
-山东教育,rtsp://115.153.245.70/PLTV/88888888/224/3221226980/85722602.smil
-山东教育,rtsp://115.153.254.81/PLTV/88888888/224/3221226980/85722602.smil
-山东教育,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226980/85722602.smil
-山东教育,rtsp://115.153.212.72/PLTV/88888888/224/3221226980/85722602.smil
-山东教育,rtsp://115.153.247.80/PLTV/88888888/224/3221226980/85722602.smil
-山东教育,rtsp://115.153.230.145/PLTV/88888888/224/3221226980/85722602.smil
-山东教育,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226980/85722602.smil
 北京纪实科教,http://39.134.64.87:6610/PLTV/88888888/224/3221225729/index.m3u8?IASHttpSessionId=
 
 🍑高清频道,#genre#
@@ -354,35 +339,15 @@ CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
 🍍少儿频道,#genre#
 CCTV-14,http://39.134.64.87:6610/PLTV/88888888/224/3221225732/index.m3u8?IASHttpSessionId=
 金鹰卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225653/index.m3u8?IASHttpSessionId=
-金鹰卡通,http://112.99.193.34:9901/tsfile/live/1034_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 金鹰卡通,http://nas.hssvm.com:8888/udp/225.1.2.236:5002
-金鹰卡通,http://183.237.95.108:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=0&authid=0
-金鹰卡通,http://120.198.101.106:9901/tsfile/live/1061_1.m3u8?key=txiptv
-金鹰卡通,http://218.15.183.23:9901/tsfile/live/23041_1.m3u8
-金鹰卡通,http://218.89.240.144:59901/tsfile/live/1002_1.m3u8
-金鹰卡通,http://120.238.94.10:9901/tsfile/live/1036_1.m3u8
-金鹰卡通,http://120.198.95.220:9901/tsfile/live/1033_1.m3u8?key=txiptv
-金鹰卡通,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=hnjykt&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 卡酷少儿,http://39.134.64.87:6610/PLTV/88888888/224/3221225654/index.m3u8?IASHttpSessionId=
-卡酷少儿,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227456/index.m3u8
-卡酷少儿,http://60.29.124.66:6080/hls/58/index.m3u8
-卡酷少儿,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
-卡酷少儿,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
 优漫卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225656/index.m3u8?IASHttpSessionId=
-优漫卡通,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227339/index.m3u8
-优漫卡通,http://58.221.214.82:9901/tsfile/live/0008_2.m3u8
-优漫卡通,http://3501776.xyz:35455/itv/1000000002000010063.m3u8?cdn=ystenlive
-优漫卡通,http://36.105.100.208:35455/itv/1000000002000010063.m3u8?cdn=ystenlive
 哈哈炫动,http://39.134.64.87:6610/PLTV/88888888/224/3221225657/index.m3u8?IASHttpSessionId=
-哈哈炫动,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227335/index.m3u8
-哈哈炫动,http://120.238.94.10:9901/tsfile/live/1037_1.m3u8
-哈哈炫动,http://60.29.124.66:6080/hls/62/index.m3u8
-哈哈炫动,http://58.57.40.22:9901/tsfile/live/1061_1.m3u8
-哈哈炫动,http://36.105.100.208:35455/itv/5000000011000031123.m3u8?cdn=bestzb
 黑莓动画,http://39.134.64.87:6610/PLTV/88888888/224/3221225662/index.m3u8?IASHttpSessionId=
 黑莓动画,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227303/index.m3u8
-黑莓动画,http://36.105.100.208:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
 名侦探柯南,http://iptv.jxpan.vip:18888/aio/huya/30080236
+七龙珠,http://www.douzhicloud.site:35455/huya/11601966
+七龙珠,http://iptv.jxpan.vip:18888/aio/huya/11601966
 
 🍋经典剧场,#genre#
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
