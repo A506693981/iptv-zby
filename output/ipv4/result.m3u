@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/A506693981/iptv-zby/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="██████████████████████████████████████████████████████████████████████████████████████████████████████████" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/██████████████████████████████████████████████████████████████████████████████████████████████████████████.png" group-title="🕘️更新时间",2025-08-06 06:11:50
+#EXTINF:-1 tvg-name="██████████████████████████████████████████████████████████████████████████████████████████████████████████" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/██████████████████████████████████████████████████████████████████████████████████████████████████████████.png" group-title="🕘️更新时间",2025-08-06 18:14:02
 http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🍎央视频道",CCTV-1
 http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
@@ -69,6 +69,8 @@ http://39.134.65.173/PLTV/88888888/224/3221225676/1.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="🍎央视频道",CCTV-9
 http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="🍎央视频道",CCTV-9
+http://110.7.131.40:9901/tsfile/live/0008_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="🍎央视频道",CCTV-10
 http://39.134.65.173/PLTV/88888888/224/3221225677/1.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="🍎央视频道",CCTV-10
@@ -637,6 +639,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225951/1.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="🍊卫视频道",西藏卫视
 http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="🍊卫视频道",西藏卫视
+http://218.13.170.98:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="🍊卫视频道",青海卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="🍊卫视频道",青海卫视
@@ -762,9 +766,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="🍊卫视频道",兵团卫视
 http://39.134.67.108/PLTV/88888888/224/3221226005/1.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="🍊卫视频道",兵团卫视
-http://8.138.7.223/tv/btws.m3u8
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="🍊卫视频道",兵团卫视
 http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?mkey=txiptv
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="🍊卫视频道",兵团卫视
+http://8.138.7.223/tv/btws.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视.png" group-title="🍊卫视频道",延边卫视
 http://39.134.67.108/PLTV/88888888/224/3221226040/1.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视.png" group-title="🍊卫视频道",延边卫视
@@ -1065,5 +1069,7 @@ http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
 http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🍍少儿频道",金鹰卡通
 http://nas.hssvm.com:8888/udp/225.1.2.236:5002
+#EXTINF:-1 tvg-name="名侦探柯南" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/名侦探柯南.png" group-title="🍍少儿频道",名侦探柯南
+http://iptv.jxpan.vip:18888/aio/huya/30080236
 #EXTINF:-1 tvg-name="西游记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记.png" group-title="🍋经典剧场",西游记
 https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8

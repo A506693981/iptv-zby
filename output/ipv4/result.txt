@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-06 06:11:50,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
+2025-08-06 18:14:02,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
 
 🍎央视频道,#genre#
 CCTV-1,http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
@@ -36,6 +36,7 @@ CCTV-8,http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
 CCTV-9,http://39.134.65.173/PLTV/88888888/224/3221225676/1.m3u8
 CCTV-9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV-9,http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
+CCTV-9,http://110.7.131.40:9901/tsfile/live/0008_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://39.134.65.173/PLTV/88888888/224/3221225677/1.m3u8
 CCTV-10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV-10,http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8
@@ -322,6 +323,7 @@ CGTN纪录,http://39.134.67.108/PLTV/88888888/224/3221225509/1.m3u8
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
 西藏卫视,http://39.134.67.108/PLTV/88888888/224/3221225951/1.m3u8
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
+西藏卫视,http://218.13.170.98:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
 青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
 青海卫视,http://39.134.67.108/PLTV/88888888/224/3221225948/1.m3u8
@@ -384,8 +386,8 @@ CGTN纪录,http://39.134.67.108/PLTV/88888888/224/3221225509/1.m3u8
 兵团卫视,http://39.134.67.108/PLTV/88888888/224/3221226005/1.m3u8
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 兵团卫视,http://39.134.67.108/PLTV/88888888/224/3221226005/1.m3u8
-兵团卫视,http://8.138.7.223/tv/btws.m3u8
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?mkey=txiptv
+兵团卫视,http://8.138.7.223/tv/btws.m3u8
 延边卫视,http://39.134.67.108/PLTV/88888888/224/3221226040/1.m3u8
 延边卫视,http://39.134.67.108/PLTV/88888888/224/3221226040/1.m3u8
 延边卫视,http://39.134.67.108/PLTV/88888888/224/3221226040/1.m3u8
@@ -540,6 +542,7 @@ CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
 
 🍍少儿频道,#genre#
 金鹰卡通,http://nas.hssvm.com:8888/udp/225.1.2.236:5002
+名侦探柯南,http://iptv.jxpan.vip:18888/aio/huya/30080236
 
 🍋经典剧场,#genre#
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
