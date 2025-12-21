@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2025-12-21 06:10:50,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
+2025-12-21 18:12:03,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
 
 📺央视频道,#genre#
 CCTV-1,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
 CCTV-3,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
 CCTV-4,http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858
-CCTV-5,http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858
 CCTV-6,http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
 CCTV-6,http://yp.qqqtv.top/1/api.php?id=CCTV-6%E7%94%B5%E5%BD%B1&auth=666858
 CCTV-7,http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
@@ -15,13 +14,12 @@ CCTV-10,http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
 CCTV-15,http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858
 CCTV-17,http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858
-CCTV-17,http://yp.qqqtv.top/1/api.php?id=CCTV-17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91&auth=666858
 CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 CETV-1,http://116.237.37.244:8888/rtp/239.45.1.125:5140
-CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
-CETV-4,http://116.237.37.244:8888/rtp/239.45.0.21:5140
+CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140
+CETV-4,http://116.237.37.244:8888/rtp/239.45.0.21:5140
 文化精品,http://171.125.90.120:6001/rtp/226.0.2.219:9664
 央视台球,http://yp.qqqtv.top/1/api.php?id=CCTV-%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83&auth=666858
 风云音乐,http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90&auth=666858
@@ -32,14 +30,14 @@ CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140
 风云剧场,http://171.125.90.120:6001/rtp/226.0.2.227:9728
 怀旧剧场,http://yp.qqqtv.top/1/api.php?id=CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA&auth=666858
 怀旧剧场,http://171.83.103.119:9999/rtp/239.69.1.89:10174
-怀旧剧场,http://171.125.90.120:6001/rtp/226.0.2.224:9704
 怀旧剧场,http://171.83.103.119:9999/rtp/239.69.1.86:10156
+怀旧剧场,http://171.125.90.120:6001/rtp/226.0.2.224:9704
 女性时尚,http://171.125.90.120:6001/rtp/226.0.2.226:9720
-高尔夫网球,http://171.83.103.119:9999/rtp/239.69.1.83:10138
 高尔夫网球,http://171.125.90.120:6001/rtp/226.0.2.217:9648
+高尔夫网球,http://171.83.103.119:9999/rtp/239.69.1.83:10138
 风云足球,http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&auth=666858
-电视指南,http://171.83.103.119:9999/rtp/239.69.1.87:10162
 电视指南,http://171.125.90.120:6001/rtp/226.0.2.218:9656
+电视指南,http://171.83.103.119:9999/rtp/239.69.1.87:10162
 世界地理,http://ygbh.site/php/bfgd.php?id=177
 世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
@@ -49,17 +47,16 @@ CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140
 兵器科技,http://171.83.103.119:9999/rtp/239.69.1.79:10114
 
 📡卫视频道,#genre#
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86HD&auth=666858
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 重庆卫视,http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86HD&auth=666858
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 广西卫视,http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86HD&auth=666858
 海南卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
-江苏卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&auth=666858
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 辽宁卫视,http://yp.qqqtv.top/1/api.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86HD&auth=666858
 深圳卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86HD&auth=666858
 
@@ -73,18 +70,18 @@ CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
